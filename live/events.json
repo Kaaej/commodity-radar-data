@@ -1,0 +1,68 @@
+[
+ {
+  "id": "2026-11-03-crude-qeshm",
+  "commodity": "crude",
+  "date": "2026-11-03",
+  "move": "Brent closed at $104.77 (-7.63%) the day before, then up about 1%",
+  "note": "Veille 2026-11-03",
+  "place": "364",
+  "source": "The National",
+  "title": "US strike on Qeshm island, near Hormuz; Brent rebounds after a 7.6% fall",
+  "url": "https://www.thenationalnews.com/news/us/2026/11/03/us-strike-qeshm-iran-hormuz/"
+ },
+ {
+  "id": "2026-11-05-crude-crash",
+  "commodity": "crude",
+  "date": "2026-11-05",
+  "move": "Brent $93.52 (-9.73%), lowest since 4 Sep; near $118 on 30 Oct",
+  "note": "Veille 2026-11-05",
+  "place": "364",
+  "source": "OilPrice.com",
+  "title": "Oil crashes on bets of a US-Iran deal after the midterms",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+ },
+ {
+  "id": "2026-11-05-ironore-kryvyirih",
+  "commodity": "ironore",
+  "date": "2026-11-05",
+  "move": "Q3 net loss of $391m; adjusted net income $868m",
+  "note": "Veille 2026-11-05",
+  "place": "804",
+  "source": "GlobeNewswire",
+  "title": "ArcelorMittal books $852m impairments after idling Kryvyi Rih in Ukraine",
+  "url": "https://www.globenewswire.com/news-release/2026/11/05/3396035/0/en/arcelormittal-reports-third-quarter-2026-results.html"
+ },
+ {
+  "id": "2026-11-06-crude-hormuz-tankers",
+  "commodity": "crude",
+  "date": "2026-11-06",
+  "move": "Brent $98.29 (+3.9%)",
+  "note": "Veille 2026-11-06",
+  "place": "cp:hormuz",
+  "source": "Gulf News",
+  "title": "IRGC says two tankers and a tug caught fire after using 'unauthorised' routes in the Strait of Hormuz",
+  "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
+ },
+ {
+  "id": "2026-11-09-copper-china-premium",
+  "commodity": "copper",
+  "date": "2026-11-09",
+  "move": "Shanghai spot premium record 2,615 yuan ($392)/t; import premiums $195-210/t (+40%)",
+  "note": "Veille 2026-11-09",
+  "place": "156",
+  "source": "Briefs.co",
+  "title": "Record physical squeeze in China; Trafigura buys copper at rising premiums",
+  "url": "https://briefs.co/news/trafigura-scoops-up-copper-as-china-s-spot-squeeze-sends-asi"
+ },
+ {
+  "id": "2026-11-10-crude-brent-low",
+  "commodity": "crude",
+  "date": "2026-11-10",
+  "move": "Brent $92.57 (-5.85%); Murban +3.4% to $99.17, about $7 above Brent",
+  "note": "Veille 2026-11-10",
+  "place": "cp:hormuz",
+  "source": "Gulf News",
+  "title": "Brent at its lowest since 31 August as Hormuz flows resume and Gulf producers cut prices",
+  "url": "https://gulfnews.com/business/energy/oil-slides-as-iran-strike-fears-ease-brent-falls-1.500741822"
+ }
+]

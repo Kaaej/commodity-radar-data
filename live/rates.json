@@ -1,0 +1,18 @@
+[
+ {
+  "id": "036",
+  "bank": "RBA",
+  "date": "2026-11-03",
+  "note": "Veille 2026-11-03",
+  "rate": 4.85,
+  "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+ },
+ {
+  "id": "826",
+  "bank": "Bank of England",
+  "date": "2026-11-05",
+  "note": "Veille 2026-11-05",
+  "rate": 4,
+  "url": "https://leprivatebanker.com/2026/11/05/bank-of-england-raises-rates-to-4-in-8-1-vote-its-first-hike-since-2023-as-mann-pushes-for-50-basis-points/"
+ }
+]

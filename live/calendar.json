@@ -1,0 +1,179 @@
+[
+ {
+  "id": "2026-11-10-eia-steo",
+  "date": "2026-11-10",
+  "event": "EIA Short-Term Energy Outlook, November",
+  "region": "US",
+  "time": "",
+  "type": "energy",
+  "url": "https://www.eia.gov/outlooks/steo/release_schedule.php"
+ },
+ {
+  "id": "2026-11-10-us-cpi",
+  "date": "2026-11-10",
+  "event": "CPI, October",
+  "expected": "+0.3% m/m",
+  "previous": "+0.6% m/m",
+  "region": "US",
+  "time": "14:30",
+  "type": "data",
+  "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
+  "id": "2026-11-12-eia-wpsr",
+  "date": "2026-11-12",
+  "event": "EIA weekly petroleum stocks",
+  "region": "US",
+  "time": "18:00",
+  "type": "energy",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-11-13-iea-omr",
+  "date": "2026-11-13",
+  "event": "IEA Oil Market Report, November",
+  "region": "WORLD",
+  "time": "10:00",
+  "type": "energy",
+  "url": "https://www.iea.org/events/oil-market-report-november-2026"
+ },
+ {
+  "id": "2026-11-13-us-ppi",
+  "date": "2026-11-13",
+  "event": "PPI, October",
+  "region": "US",
+  "time": "14:30",
+  "type": "data",
+  "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
+  "id": "2026-11-18-ea-hicp",
+  "date": "2026-11-18",
+  "event": "HICP inflation, October (final)",
+  "previous": "4.0% (flash)",
+  "region": "EA",
+  "time": "12:00",
+  "type": "data",
+  "url": "https://www.ecb.europa.eu/press/calendars/statscal/html/index.en.html"
+ },
+ {
+  "id": "2026-11-18-ecb-fsr",
+  "date": "2026-11-18",
+  "event": "ECB Financial Stability Review",
+  "region": "EA",
+  "time": "",
+  "type": "cb",
+  "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/index.en.html"
+ },
+ {
+  "id": "2026-11-18-eia-wpsr",
+  "date": "2026-11-18",
+  "event": "EIA weekly petroleum stocks",
+  "region": "US",
+  "time": "16:30",
+  "type": "energy",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-11-18-fomc-minutes",
+  "date": "2026-11-18",
+  "event": "FOMC minutes (27-28 October meeting)",
+  "region": "US",
+  "time": "20:00",
+  "type": "cb",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+ },
+ {
+  "id": "2026-11-25-eia-wpsr",
+  "date": "2026-11-25",
+  "event": "EIA weekly petroleum stocks",
+  "region": "US",
+  "time": "16:30",
+  "type": "energy",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-11-25-fed-beige",
+  "date": "2026-11-25",
+  "event": "Fed Beige Book",
+  "region": "US",
+  "time": "20:00",
+  "type": "cb",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+ },
+ {
+  "id": "2026-11-25-us-gdp-pce",
+  "date": "2026-11-25",
+  "event": "GDP Q3 (second estimate) and PCE, October",
+  "region": "US",
+  "time": "14:30",
+  "type": "data",
+  "url": "https://www.bea.gov/news/schedule"
+ },
+ {
+  "id": "2026-11-29-opec-ministerial",
+  "date": "2026-11-29",
+  "event": "OPEC+ ministerial meeting (42nd ONOMM)",
+  "region": "OPEC",
+  "time": "",
+  "type": "energy",
+  "url": "https://www.opec.org/pr-detail/2033620-1-november-2026.html"
+ },
+ {
+  "id": "2026-12-01-ea-hicp-flash",
+  "date": "2026-12-01",
+  "event": "HICP inflation, November (flash)",
+  "previous": "4.0%",
+  "region": "EA",
+  "time": "",
+  "type": "data",
+  "url": "https://www.ecb.europa.eu/press/calendars/statscal/html/index.en.html"
+ },
+ {
+  "id": "2026-12-01-us-jolts",
+  "date": "2026-12-01",
+  "event": "JOLTS job openings, October",
+  "previous": "7.5 M",
+  "region": "US",
+  "time": "16:00",
+  "type": "data",
+  "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
+  "id": "2026-12-02-eia-wpsr",
+  "date": "2026-12-02",
+  "event": "EIA weekly petroleum stocks",
+  "region": "US",
+  "time": "16:30",
+  "type": "energy",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-12-04-us-nfp",
+  "date": "2026-12-04",
+  "event": "Nonfarm payrolls, November",
+  "previous": "165k",
+  "region": "US",
+  "time": "14:30",
+  "type": "data",
+  "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
+  "id": "2026-12-09-fomc",
+  "date": "2026-12-09",
+  "event": "Fed decision and projections",
+  "region": "US",
+  "time": "20:00",
+  "type": "cb",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+ },
+ {
+  "id": "2026-12-17-ecb",
+  "date": "2026-12-17",
+  "event": "ECB monetary policy decision",
+  "region": "EA",
+  "time": "",
+  "type": "cb",
+  "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+ }
+]

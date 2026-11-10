@@ -1,0 +1,97 @@
+[
+ {
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "note": "Veille 2026-11-10, brief du matin",
+  "stories": [
+   {
+    "body": "Donald Trump said a new strike on Iran was unnecessary \"at this stage\", Qatar called for restraint and tanker traffic through the Strait of Hormuz is picking up, to the point that Middle East producers are cutting prices to find buyers. Physical Gulf crude tells a different story: Abu Dhabi's Murban rose 3.4% to $99.17, about $7 above Brent, and attacks on ships near the strait continue.",
+    "lead": "Brent closed at $92.57 on Monday (-5.85%) and slipped again to about $91.3 to $92.3 this morning; WTI trades near $86 to $87.",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "sources": [
+     {
+      "name": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/oil-slides-as-iran-strike-fears-ease-brent-falls-1.500741822"
+     },
+     {
+      "name": "JournalArta",
+      "url": "https://journalarta.com/en/2026/11/10/oil-price-today-brent-slides-6-73-to-91-70-as-trump-eases-iran-rhetoric/"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+     }
+    ],
+    "title": "Oil: Brent at its lowest since 31 August as Hormuz flows resume",
+    "why": "The gap between paper and physical Gulf crude widened from about $1.70 to about $7 in a day. That spread is where physical traders make or lose money, and the EIA's Short-Term Energy Outlook out today gives the official US read."
+   },
+   {
+    "body": "Exports of integrated circuits more than doubled (+137.1%) to $39.59bn on AI-related demand. The cumulative surplus since January passes $1,040bn.",
+    "lead": "Exports rose 35.2% year on year (about $412bn) and imports 41.6% (about $307bn), both well above forecasts; the surplus narrowed to $105.3bn.",
+    "markets": [
+     "macro",
+     "metals"
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+     },
+     {
+      "name": "investingLive",
+      "url": "https://investinglive.com/news/china-october-exports-beat-forecasts-imports-surge-41-6-as-trade-surplus-narrows/"
+     }
+    ],
+    "title": "China: imports jump 41.6% in October, trade surplus at its lowest since April",
+    "why": "Imports this strong support commodity demand at a time when physical copper is already tight in China. The product detail (crude, copper) comes with the full customs data."
+   },
+   {
+    "body": "Chicago Fed president Austan Goolsbee has warned that the data-centre build-out looks like old-fashioned demand overheating. Markets priced about an 81% chance of a Fed hike on 9 December (CME FedWatch, cited by Reuters).",
+    "lead": "Core is expected at +0.2% after +0.6% headline and +0.3% core in September; no year-on-year rate will be published because October 2025 data are missing after the shutdown.",
+    "markets": [
+     "macro"
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+     }
+    ],
+    "title": "US October CPI due at 14:30 Paris time: +0.3% m/m expected",
+    "why": "It is the last inflation print before the Fed meeting; a reading above 0.3% would reinforce the curve flattening seen since Friday's jobs report."
+   },
+   {
+    "body": "This morning Korea's Kospi rose 4% to 5%, enough to trigger the brake on programme orders, the Nikkei 2.89% (SoftBank +13.4%, Tokyo Electron +4.7%) and SK Hynix 5.2%; S&P 500 futures are up 0.16%.",
+    "lead": "The S&P 500 gained 2.35%, the Nasdaq Composite 2.74% and the Dow 1,104 points (+2.2%) on Monday, while Nvidia fell about 4% on its board's inquiry into Jensen Huang.",
+    "markets": [
+     "equities"
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+     }
+    ],
+    "title": "Wall Street posts its best day since 8 April; Asia follows on chipmakers",
+    "why": "After last week's AI sell-off, the rebound is led by equipment and memory makers rather than Nvidia, eight days before Nvidia's results on 17 November."
+   },
+   {
+    "body": "Janus Henderson launched an active China equity ETF and Defiance the first equal-weight UCITS ETF on the Magnificent Seven. J.P. Morgan AM named Eve-Marie Bussière, from DWS, head of ETF distribution for France and Monaco.",
+    "lead": "Fidelity International launched an Equity Enhanced Yield range and now has more than thirty active ETFs; Man Group launched two (trend following and infrastructure).",
+    "markets": [
+     "etfs"
+    ],
+    "sources": [
+     {
+      "name": "L'Agefi ETF Live newsletter, 9 November 2026"
+     }
+    ],
+    "title": "Active ETFs in Europe: Fidelity passes thirty products, Man Group launches its first UCITS active ETFs",
+    "why": "Active ETFs change the market maker's job: less transparent baskets and harder hedging."
+   }
+  ]
+ }
+]
