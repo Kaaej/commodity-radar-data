@@ -93,5 +93,369 @@
     "why": "Active ETFs change the market maker's job: less transparent baskets and harder hedging."
    }
   ]
+ },
+ {
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "note": "Veille 2026-11-09, brief du matin (written on 10 Nov 2026 from the sourced brief)",
+  "stories": [
+   {
+    "title": "Brent slips to $96.45 after Trump, but physical Gulf crude rises",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent fell 1.9% after a weekly drop of more than 16%, the steepest since 2020; WTI trades near $90.5 to $91.3.",
+    "body": "Donald Trump called a new strike on Iran very unlikely while talks progress. Abu Dhabi's Murban, a physical Gulf grade, rose 3.4% to $99.17, about $1.70 above Brent: a tanker was hit again in the Strait of Hormuz on 8 November and IMF PortWatch counted a single transit on 1 November against 85 a day before the crisis. JPMorgan still sees a global surplus of 1.4 mb/d in October.",
+    "why": "The gap between a paper market pricing peace and a still tight physical market is exactly what traders arbitrage.",
+    "sources": [
+     {
+      "name": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/oil-dips-again-on-iran-talks-hopes-but-physical-gulf-crude-climbs-1.500740662"
+     },
+     {
+      "name": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-45-monday-after-trump-says-iran-attacks-unlikely-cpi-10-november-bull-104-bear-93/"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia board opens an inquiry into Jensen Huang, shares about -6% in early trading",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Nasdaq 100 futures fell about 1% and S&P 500 futures 0.15%.",
+    "body": "On 8 November Jensen Huang acknowledged a relationship with a woman US agencies describe as a Chinese spy; a committee of independent directors is investigating and says it has no reason to believe secrets leaked. Friday had brought a rebound (Nasdaq +1.09%, S&P 500 +0.31%), and Taiwan's market rose 4.94% on Monday.",
+    "why": "A governance risk on the largest S&P 500 company, a week before its results on 17 November 2026.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+     },
+     {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation"
+     }
+    ]
+   },
+   {
+    "title": "Copper: record physical squeeze in China, Trafigura buys at rising premiums",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Shanghai's spot premium hit a record 2,615 yuan ($392) a tonne after tripling in two weeks; import premiums rose more than 40% to $195 to $210.",
+    "body": "The spread between the first two SHFE contracts topped 1,200 yuan, unseen since 2005, and deliverable stocks (33,848 t) cover less than a day of Chinese demand. Smelters lack concentrate and scrap, copper and cobalt trucks were seized in the DR Congo, and metal stayed in the United States on tariff fears. Trafigura has been asking producers and traders for November and December cargoes (Bloomberg).",
+    "why": "A concrete case of backwardation and physical premium on a key energy transition metal.",
+    "sources": [
+     {
+      "name": "Briefs, from Bloomberg",
+      "url": "https://briefs.co/news/trafigura-scoops-up-copper-as-china-s-spot-squeeze-sends-asi"
+     }
+    ]
+   },
+   {
+    "title": "Credit Agricole proposes to merge its Italian arm with Banco BPM",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Friendly offer with a 20% premium for Banco BPM shareholders and a €1 billion special dividend.",
+    "body": "Credit Agricole would go from 29.6% to about 45% of a new group, Italy's third largest bank, listed in Milan. The deal needs a Banco BPM shareholder vote under the whitewash procedure, plus approval from the ECB and the Italian government; completion is targeted for the second half of 2027. UniCredit rose 4.7% the same morning on a record quarterly profit of €3.3 billion.",
+    "why": "European bank consolidation continues, with French and Italian lenders at the center.",
+    "sources": [
+     {
+      "name": "Credit Agricole, press release",
+      "url": "https://www.globenewswire.com/news-release/2026/11/09/3398046/0/en/credit-agricole-sa-cr%C3%A9dit-agricole-proposes-to-banco-bpm-to-create-together-a-new-leading-italian-bank.html"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+     }
+    ]
+   },
+   {
+    "title": "US October CPI due tomorrow: +0.2% to +0.3% month on month expected",
+    "markets": [
+     "macro"
+    ],
+    "lead": "FactSet expects +0.24% after +0.6% in September; core is seen near +0.2%.",
+    "body": "The BLS will not publish a year-on-year rate, for lack of October 2025 data after the shutdown. The probability of a Fed hike on 9 December 2026 is about 81% (CME FedWatch, via Reuters). In China, October producer prices rose 5.7% from a year earlier, the highest since June 2022, while consumer prices slowed to +0.7%.",
+    "why": "The last inflation print before the Fed, which will shape the flattening of the yield curve.",
+    "sources": [
+     {
+      "name": "Morningstar",
+      "url": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
+     },
+     {
+      "name": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/october-2026-cpi-preview-no-yearly-rate"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "note": "Veille 2026-11-06, brief du matin (written on 10 Nov 2026 from the sourced brief)",
+  "stories": [
+   {
+    "title": "AI stocks crash: S&P 500 -4.4%, Nasdaq -5.5%, chip index -12.2%",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Worst S&P 500 session since April 2025; the Nasdaq Composite is 11.9% below its October record, in correction territory.",
+    "body": "Nvidia fell 9.3% and AMD 17.3%, while AppLovin jumped 31% on results. Investors fear a freeze on data centers after the Democratic wave, with about forty local measures to slow their construction and a call for a national moratorium, plus doubts on AI returns and higher borrowing costs. Money moved into Treasuries: the 10-year yield fell to 4.84% from 4.90%.",
+    "why": "A textbook flight to quality: equities down, long rates down, with the AI supply chain at the center.",
+    "sources": [
+     {
+      "name": "Anchorage Daily News, AP",
+      "url": "https://www.adn.com/business-economy/2026/11/05/ai-stock-wipeout-sends-wall-street-tumbling-as-fears-rise-over-data-center-moratoriums-following-democratic-landslide/"
+     },
+     {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/05/wall-street-drop-off-tech-ai-plunge-2-trillion/"
+     }
+    ]
+   },
+   {
+    "title": "Asia follows: Nikkei about -5.9%, Kospi halted, Taiex -4.5%",
+    "markets": [
+     "equities"
+    ],
+    "lead": "The Kospi touched -8.8% intraday and lost about 11.7% over the week; TSMC fell as much as 8.5% in Taipei.",
+    "body": "SK Hynix lost about 10% and Samsung about 8%; Kioxia, SoftBank and Advantest also dropped sharply. China held up better (Hang Seng -0.7%). Euro Stoxx 50 futures were down about 1% early on, and gold fell 1.1% to $4,044 an ounce.",
+    "why": "The markets most exposed to memory and chip equipment pay for US political risk.",
+    "sources": [
+     {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/11/06/global-stock-rout-deepens-as-ai-data-centre-fears-fuel-worst-us-chip-sell-off-since-2020"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+     }
+    ]
+   },
+   {
+    "title": "Brent rebounds to $98.29 as tankers burn near Hormuz",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent +3.9% to $98.29 and WTI to $91.07 after Wednesday's crash.",
+    "body": "Iran's Revolutionary Guards said two tankers and a tug caught fire after using unauthorised routes in the Strait of Hormuz; UKMTO counts at least five incidents in the Gulf since Sunday, and US crude and product stocks are falling. Eurasia Group cut the odds of a deal with Iran to 10% from 20% and sees Brent at $110 to $125 if tensions escalate.",
+    "why": "The geopolitical premium rebuilds as soon as maritime incidents resume, with freight, insurance and the Brent-WTI spread ($7.22) moving with it.",
+    "sources": [
+     {
+      "name": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
+     }
+    ]
+   },
+   {
+    "title": "US October jobs report today: about 60,000 to 65,000 jobs expected",
+    "markets": [
+     "macro"
+    ],
+    "lead": "Release at 14:30 Paris time, with unemployment seen at 4.2%.",
+    "body": "September added only 29,000 jobs and the monthly average since January 2025 is about 35,000. Signals this week were firm: ADP at 86,000, jobless claims at their lowest since July and JOLTS at 7.5 million. Markets price a 67% chance of a 25 basis point Fed hike on 9 December 2026 (CME FedWatch).",
+    "why": "A strong number would back a December hike while equities fall; a weak one would extend the rally in long bonds.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+     },
+     {
+      "name": "IndexBox",
+      "url": "https://www.indexbox.io/blog/october-jobs-report-preview-economists-expect-65000-job-additions-unemployment-at-42/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-11-05",
+  "date": "2026-11-05",
+  "note": "Veille 2026-11-05, brief du matin (written on 10 Nov 2026 from the sourced brief)",
+  "stories": [
+   {
+    "title": "Brent crashes 9.73% to $93.52, its biggest drop in months",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent lost $10.08 on Wednesday to its lowest since 4 September 2026 and held near $93.6 on Thursday morning, against almost $118 on 30 October.",
+    "body": "The White House tied the Republican defeat in the midterms to the war with Iran, and the market started to price a deal. The physical market stays tight: US distillate stocks are 13% below their five-year average and Gulf exports fell to 17.1 mb/d in October from 18.9 mb/d in September, about three quarters of pre-war levels (Vortexa).",
+    "why": "Paper markets may have erased the Hormuz premium faster than physical flows justify.",
+    "sources": [
+     {
+      "name": "OilPrice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+     },
+     {
+      "name": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-94-thursday-after-9-percent-crash-us-iran-deal-bets-bull-100-bear-90/"
+     }
+    ]
+   },
+   {
+    "title": "Bank of England expected to raise rates for the first time since August 2023",
+    "markets": [
+     "macro"
+    ],
+    "lead": "A Reuters poll sees a 7-2 vote to lift Bank Rate from 3.75% to 4% at 13:00 Paris time.",
+    "body": "UK inflation rose to 3.5% in September, above expectations, on the energy shock from the war with Iran. Markets also price at least three more quarter-point hikes next year, which would take UK rates above US rates; some economists, such as PIMCO, expect only one, in February 2027.",
+    "why": "The gap between market pricing and economists is a live debate for sterling rates, and the oil slide may soften the Bank's message.",
+    "sources": [
+     {
+      "name": "NST, from Reuters",
+      "url": "https://www.nst.com.my/amp/business/economy/2026/11/1571109/bank-england-poised-hike-rates-first-time-three-years"
+     },
+     {
+      "name": "HomeOwners Alliance",
+      "url": "https://hoa.org.uk/news/interest-rate-predictions-2/"
+     }
+    ]
+   },
+   {
+    "title": "Qualcomm beats on revenue but guides below, shares down about 6% after hours",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Fourth-quarter revenue of $10.32 billion against $10.12 billion expected; adjusted EPS of $2.17.",
+    "body": "Handsets fell 26% from a year earlier while automotive and IoT rose 36%. The first-quarter outlook of $2.15 to $2.35 per share sits below the roughly $2.32 expected, because component costs, memory first, are rising; the $5 billion data center revenue goal for 2027 is unchanged.",
+    "why": "AI demand lifts memory prices and squeezes the margins of mobile chip makers: winners and losers from the same trend.",
+    "sources": [
+     {
+      "name": "FinanceFeeds",
+      "url": "https://financefeeds.com/qualcomm-shares-drop-5-75-after-hours-as-q1-earnings-forecast-misses-estimates/"
+     },
+     {
+      "name": "SEC filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000804328/000080432826000127/qcom092726erex991.htm"
+     }
+    ]
+   },
+   {
+    "title": "Dow posts its best session since April 2025, Asia split on Thursday",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Wednesday close: Dow +3.03% to 53,356.12, S&P 500 +1.58% to 7,688.62, Nasdaq +1.44% to 25,736.51.",
+    "body": "The end of election uncertainty and the fall in oil drove the rally. On Thursday the Nikkei fell about 1.5% on AI names, on fears that a Democratic Congress regulates data centers, while the broader Topix rose; gold traded near $4,135 an ounce.",
+    "why": "A clear rotation: cyclicals and banks up, AI down on political risk.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+     },
+     {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-soars-1-200-points-185644839.html"
+     },
+     {
+      "name": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still"
+     }
+    ]
+   },
+   {
+    "title": "ArcelorMittal posts a net loss on the Kryvyi Rih shutdown, adjusted profit rises",
+    "markets": [
+     "metals",
+     "equities"
+    ],
+    "lead": "Third-quarter net loss of $391 million after $852 million of impairments and $293 million of exceptional charges tied to the Ukrainian site.",
+    "body": "Adjusted net income rose to $868 million from $683 million in the second quarter, and EBITDA of about $2.02 billion beat the $1.96 billion consensus (LSEG). Net debt reached $10.3 billion at end-September, swollen by $2.5 billion of working capital expected to unwind in the fourth quarter; the group sees double-digit growth in European flat steel shipments.",
+    "why": "Europe's steel demand is turning up while the war keeps weighing on Ukrainian iron ore and steel capacity.",
+    "sources": [
+     {
+      "name": "ArcelorMittal, results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396035/0/en/arcelormittal-reports-third-quarter-2026-results.html"
+     },
+     {
+      "name": "StockTitan",
+      "url": "https://www.stocktitan.net/news/MT/arcelor-mittal-reports-third-quarter-2026-v0o1jxq62h6m.html"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "note": "Veille 2026-11-03, brief du matin (written on 10 Nov 2026 from the sourced brief)",
+  "stories": [
+   {
+    "title": "Oil rebounds about 1% after a reported US strike on Qeshm, a day after a 7.6% slide",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent closed Monday at $104.77 (-7.63%) and WTI at $96.46 (-7.4%), then climbed back to about $106 and $96.9 on Tuesday morning.",
+    "body": "Monday's drop followed signs of diplomacy between Washington and Tehran. Overnight, the Wall Street Journal reported, citing US officials, a US strike on Qeshm island in the Strait of Hormuz, described as defensive and not confirmed by CENTCOM. JD Vance said he was optimistic about a negotiated settlement, and Donald Trump answered no when asked whether he would strike Iran after the elections.",
+    "why": "Diplomacy and limited strikes now move together, so the Hormuz risk premium can vanish or return within a single session.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
+     },
+     {
+      "name": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-106-tuesday-after-7-6-percent-plunge-qeshm-strike-report-midterms-bull-113-bear-100/"
+     },
+     {
+      "name": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/03/us-strike-qeshm-iran-hormuz/"
+     }
+    ]
+   },
+   {
+    "title": "Reserve Bank of Australia lifts its cash rate to 4.85%, the highest since 2008",
+    "markets": [
+     "macro"
+    ],
+    "lead": "Fifth hike of 2026, from 4.60% to 4.85%, voted six to three.",
+    "body": "The central bank pointed to high inflation, the war in the Middle East and the rise in oil prices. Governor Michele Bullock left the door open to further hikes but hinted at a pause to assess the effect of the five moves; the three dissenters wanted to hold.",
+    "why": "A first clear case of a central bank tightening because of the oil shock, ahead of the Bank of England decision on Thursday.",
+    "sources": [
+     {
+      "name": "RBA, media release",
+      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-03/rba-lifts-interest-rates-november-2026-highest-rate-in-18-years/107340050"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street ends lower despite oil, Apple slips after results",
+    "markets": [
+     "equities"
+    ],
+    "lead": "The S&P 500 lost 0.51% to 7,541.40, a third straight fall, and the Nasdaq 1.07%, while the Dow gained 0.41%.",
+    "body": "After the close, Apple reported quarterly revenue of $114.5 billion (+12%), including $57.6 billion from the iPhone (+17%), but fell about 3% after hours on a lower gross margin outlook tied to memory costs. Palantir, with revenue up 96% and a raised annual outlook, also slipped about 3%.",
+    "why": "Memory costs are becoming a common thread across the chip and hardware chain, a sign of how AI demand reprices inputs.",
+    "sources": [
+     {
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+     },
+     {
+      "name": "Apple, press release",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html"
+     }
+    ]
+   }
+  ]
  }
 ]
