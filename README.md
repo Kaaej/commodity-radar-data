@@ -6,6 +6,7 @@ Market news, economic calendar, policy rates and the daily market brief shown on
 - `live/calendar.json`: central bank meetings, macro releases and energy reports (Paris time).
 - `live/rates.json`: latest policy rate decisions logged by the market watch.
 - `live/editions.json`: the daily market brief, written in English from sourced news.
+- `live/market.json`: monthly prices of the last five years (World Bank Commodity Price Data, the Pink Sheet, CC BY 4.0), written by `market.py` and refreshed by the GitHub Action `Market prices` when the World Bank publishes a new month.
 - `add_live.py`: merges a new batch, never deletes or overwrites existing items, commits, pushes and checks the result online.
 
 Each item links to its original source. © 2026 Arthur DE CLAIRVAL ([LinkedIn](https://www.linkedin.com/in/arthur-de-clairval/)); the underlying facts belong to their sources.

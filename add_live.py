@@ -102,6 +102,8 @@ msg = f"Market watch {day}: " + "; ".join(report)
 try:
     subprocess.run(["git", "-C", str(root), "add", "live"], check=True)
     subprocess.run(["git", "-C", str(root), "commit", "-q", "-m", msg], check=True)
+    # Since 11 Nov 2026 a GitHub Action also commits live/market.json: take its commits first (no shared files, so no conflict)
+    subprocess.run(["git", "-C", str(root), "pull", "--rebase", "-q"], check=True)
     subprocess.run(["git", "-C", str(root), "push", "-q"], check=True)
 except subprocess.CalledProcessError as e:
     fail(f"git step failed ({e}); the files are written locally but not online")
