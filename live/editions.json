@@ -1,5 +1,104 @@
 [
  {
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "note": "Veille 2026-11-11, brief du matin",
+  "stories": [
+   {
+    "title": "Ukrainian strikes knock out about 30% of Russia's refining capacity",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Nine of Russia's 35 major refineries were disrupted in a week, about 2.2 mb/d of nameplate capacity out of roughly 6.8 mb/d.",
+    "body": "Industry estimates put the real loss of crude runs at up to 200,000 tonnes a day, around 1.5 mb/d, after refineries had partly recovered to about 5 mb/d at the end of October. The drone campaign has been running since late October and targets processing rather than crude exports.",
+    "why": "Less Russian refining means more crude available for export and fewer barrels of diesel, so product cracks and spreads can move independently of Brent.",
+    "sources": [
+     {
+      "name": "OilPrice (Reuters)",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html"
+     }
+    ]
+   },
+   {
+    "title": "Oil edges back toward $92 as Iran deal hopes fade",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent trades around $91.9 to $92.1 (+0.4 to 0.6%) and WTI near $86.4 after dipping below $90 on Tuesday.",
+    "body": "Up to 37 vessels were attacked near Hormuz in October, a record, and the IMO counts 130 since the war began; LSEG notes that higher flows would still depend on mine clearance, insurance and shipowners. On the supply side, OPEC output rose to 22.87 mb/d in October, about 90% of February levels, and the API reported a 9.0 million barrel build in US crude stocks.",
+    "why": "The paper market prices diplomacy while logistics remain the real bottleneck; official EIA stocks on Thursday and the IEA report on Friday are the next checks.",
+    "sources": [
+     {
+      "name": "OilPrice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html"
+     },
+     {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+     }
+    ]
+   },
+   {
+    "title": "Orlen cancels a long-term Qatar LNG contract; TTF rises 2.7%",
+    "markets": [
+     "lng",
+     "energy"
+    ],
+    "lead": "Poland's Orlen is the first QatarEnergy customer to cancel a long-term deal, a 1 Mt per year contract signed in 2009 and running to 2034.",
+    "body": "QatarEnergy has been under force majeure since spring 2026, extended at the end of October to year-end. Qatari LNG exports fell to about 2.7 Mt in October from close to 6.2 Mt in February, even as LNG transits through Hormuz rose to 31. European gas climbed to about EUR87/MWh, with EU storage below 73% against a five-year average of 89%.",
+    "why": "A prolonged force majeure starts to break long-term contracts, pushing volumes toward the spot market and trader portfolios.",
+    "sources": [
+     {
+      "name": "OilPrice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Polands-Orlen-Becomes-First-Buyer-to-Cancel-Long-Term-Qatar-LNG-Deal.html"
+     },
+     {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+     }
+    ]
+   },
+   {
+    "title": "Siemens Energy posts a record year but guides 2027 profit below consensus",
+    "markets": [
+     "equities",
+     "energy"
+    ],
+    "lead": "Fourth-quarter revenue hit a record EUR12.83bn and the backlog EUR164bn, but 2027 net income guidance of about EUR5bn is roughly 10% below the EUR5.5bn consensus.",
+    "body": "Full-year 2026 net income rose to EUR4.13bn from EUR1.69bn, with a proposed dividend of EUR2.30. Quarterly orders of EUR14.82bn missed the EUR15.47bn expected. Gas turbines and grid equipment for data centers drive growth, with Gas Services revenue seen up 24 to 26% in 2027 and a 20 to 22% margin targeted for 2030.",
+    "why": "Data center power demand keeps turning into firm orders for gas turbines and grid equipment, a structural support for gas burn and copper-intensive grids.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/earnings/siemens-energys-2027-profit-outlook-falls-short-despite-record-year-5017771"
+     },
+     {
+      "name": "Siemens Energy",
+      "url": "https://www.siemens-energy.com/global/en/home/press-releases/earnings-release-q4-fy-2026--siemens-energy-reports-a-record-yea.html"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street slips after hot CPI; futures and Asia rebound on chips",
+    "markets": [
+     "equities",
+     "macro"
+    ],
+    "lead": "On Tuesday the S&P 500 fell 0.38% and the Nasdaq 0.74%, with Nvidia down 5.5%; this morning Nasdaq 100 futures are up 1.4% and the Kospi 2.6%.",
+    "body": "October CPI rose 0.4% month on month, above expectations. Nvidia's market value fell to about $4.07tn, its lowest since late March, amid the Jensen Huang affair. TSMC gained 2.2% after its board approved up to $1bn of investments in Anthropic and OpenAI, and the Nikkei rose 1.31%. The US bond market is closed today for Veterans Day.",
+    "why": "The chip supply chain, not Nvidia, is leading the rebound ahead of Nvidia's results on 17 November, a key test for AI-driven demand for chips, power and metals.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-10",
   "date": "2026-11-10",
   "note": "Veille 2026-11-10, brief du matin",
