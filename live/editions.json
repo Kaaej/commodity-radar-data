@@ -1,5 +1,104 @@
 [
  {
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "note": "Veille 2026-11-12, brief du matin",
+  "stories": [
+   {
+    "title": "Iran strikes ship navigation systems on Oman's Didamar island in Hormuz",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Three sources confirmed to Reuters an attack claimed on Tuesday by the Revolutionary Guards; smoke was visible but damage was not assessed.",
+    "body": "Shipping and maritime security sources expect a limited impact on commercial traffic, as other navigation systems exist. Gulf oil exports recovered to more than 80% of pre-war levels in September and October, helped by US military escorts, higher Saudi exports via Yanbu and ship-to-ship transfers off Sohar and Fujairah.",
+    "why": "Iran is now hitting infrastructure on neutral territory while the market prices peace, a reminder that Hormuz flows depend on workarounds that can be disrupted.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/iran-attacks-shipping-navigation-systems-on-omans-didamarisland-sources-say-5019671"
+     }
+    ]
+   },
+   {
+    "title": "Oil drops 1.6% on diplomacy hopes over Iran and Ukraine",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent fell to $91.29 (-$1.47) and WTI to $85.29 (-1.43%) in Asian trade, after gaining 1.4% on Wednesday.",
+    "body": "A report pointed to further US-Iran diplomacy, while Russian and Ukrainian negotiators agreed a major prisoner exchange in Abu Dhabi without progress on territory. Higher OPEC+ output in October and a 9 million barrel API crude build added to oversupply worries; EIA data is due on Thursday, delayed by Veterans Day.",
+    "why": "The risk premium built on Wednesday vanished overnight, showing how fast headlines now swing crude around $90.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171"
+     },
+     {
+      "name": "OilPrice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia board reportedly prepares to oust CEO Jensen Huang",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "Nvidia fell more than 8% after hours to $159.51, having lost over $450 billion in market value since the probe was announced on November 8.",
+    "body": "The Wall Street Journal reported that the board was meeting on Wednesday evening to decide on Huang's future after an internal investigation into his conduct; no official decision has been announced. Nasdaq 100 futures were down 0.97% and Korea's Kospi fell 1.26%, dragged by Nvidia suppliers Samsung and SK Hynix.",
+    "why": "Nvidia is the largest weight in tech indices and the bellwether of AI chip demand, which drives power and copper demand from data centers; results are due on November 17.",
+    "sources": [
+     {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+     }
+    ]
+   },
+   {
+    "title": "Gold slips below $4,000 as a 50 bp Fed hike enters the debate",
+    "markets": [
+     "metals",
+     "macro"
+    ],
+    "lead": "Spot gold fell 0.4% to $3,973 an ounce and silver 0.6% to $51.36, with the dollar index at 102.98.",
+    "body": "A 25 bp Fed hike in December is fully priced and some investors now consider 50 bp, after Chicago Fed President Austan Goolsbee called October inflation borderline disturbing. The US 2-year yield jumped 18 bp on Tuesday and the 10-year trades near 5%.",
+    "why": "Rising real rates weigh on non-yielding metals, and the Fed path now hinges on whether the energy shock spreads to wider prices.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139"
+     }
+    ]
+   },
+   {
+    "title": "First Russian diesel cargo for the US idles off the East Coast",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "The White House plan allows 300,000 tonnes of Russian diesel now, 500,000 tonnes in November and 1 million tonnes after that; US diesel costs $6.13 a gallon, up 63% since February.",
+    "body": "Importers hesitate because of legal liability, bank reluctance to finance the deals and the need to blend the fuel to meet NYMEX heating oil specifications, while senators from both parties ask for the waiver to be rescinded. In Europe, northwest gasoline refining margins fell by more than $28 to $8.38 a barrel.",
+    "why": "Sanctions, financing and product specs can strand a cargo even when policy allows it, which keeps distillate cracks decoupled from crude.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/analysisus-companies-shunning-russian-diesel-as-tanker-carrying-that-fuel-idles-off-east-coast-5019676"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-fall-to-october-lows-93CH-5019804"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-11",
   "date": "2026-11-11",
   "note": "Veille 2026-11-11, brief du matin",

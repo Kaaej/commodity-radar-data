@@ -1,5 +1,31 @@
 [
  {
+  "id": "2026-11-12-crude-peace-hopes-drop",
+  "date": "2026-11-12",
+  "commodity": "crude",
+  "place": "world",
+  "title": "Oil falls on US-Iran diplomacy report and Russia-Ukraine prisoner swap deal",
+  "move": "Brent $91.29 (-1.58%), WTI $85.29 (-1.43%)",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171",
+  "note": "Veille 2026-11-12",
+  "edition": "2026-11-12",
+  "story": 1
+ },
+ {
+  "id": "2026-11-12-gold-below-4000",
+  "date": "2026-11-12",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold slips below $4,000 as markets weigh a 50 bp Fed hike in December",
+  "move": "Spot gold $3,973 (-0.4%), silver $51.36 (-0.6%)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139",
+  "note": "Veille 2026-11-12",
+  "edition": "2026-11-12",
+  "story": 3
+ },
+ {
   "id": "2026-11-11-crude-hormuz-optimism-fades",
   "date": "2026-11-11",
   "commodity": "crude",
@@ -23,6 +49,32 @@
   "url": "https://oilprice.com/Latest-Energy-News/World-News/Polands-Orlen-Becomes-First-Buyer-to-Cancel-Long-Term-Qatar-LNG-Deal.html",
   "note": "Veille 2026-11-11",
   "edition": "2026-11-11",
+  "story": 2
+ },
+ {
+  "id": "2026-11-12-crude-didamar-strike",
+  "date": "2026-11-11",
+  "commodity": "crude",
+  "place": "cp:hormuz",
+  "title": "Iran hits ship navigation systems on Oman's Didamar island in the Strait of Hormuz",
+  "move": "Gulf exports back above 80% of pre-war levels in Sep-Oct",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/iran-attacks-shipping-navigation-systems-on-omans-didamarisland-sources-say-5019671",
+  "note": "Veille 2026-11-12",
+  "edition": "2026-11-12",
+  "story": 0
+ },
+ {
+  "id": "2026-11-12-semis-nvidia-ceo-ouster",
+  "date": "2026-11-11",
+  "commodity": "semis",
+  "place": "840",
+  "title": "Nvidia board reportedly prepares to remove CEO Jensen Huang",
+  "move": "Nvidia -8% after hours to $159.51",
+  "source": "CBS News",
+  "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
+  "note": "Veille 2026-11-12",
+  "edition": "2026-11-12",
   "story": 2
  },
  {
@@ -60,6 +112,19 @@
   "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
   "note": "Veille 2026-11-11",
   "edition": "2026-11-11",
+  "story": 4
+ },
+ {
+  "id": "2026-11-12-diesel-russian-cargo-idle",
+  "date": "2026-11-10",
+  "commodity": "diesel",
+  "place": "840",
+  "title": "First Russian diesel cargo for the US idles off the East Coast as buyers balk",
+  "move": "US diesel $6.13/gal, +63% since February",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/analysisus-companies-shunning-russian-diesel-as-tanker-carrying-that-fuel-idles-off-east-coast-5019676",
+  "note": "Veille 2026-11-12",
+  "edition": "2026-11-12",
   "story": 4
  },
  {
