@@ -154,7 +154,8 @@
   "region": "US",
   "time": "18:00",
   "type": "energy",
-  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
+  "actual": "Crude +4.7M bbl (414.4M)"
  },
  {
   "id": "2026-11-10-eia-steo",

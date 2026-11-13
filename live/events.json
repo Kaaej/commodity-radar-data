@@ -1,5 +1,44 @@
 [
  {
+  "id": "2026-11-13-gold-13month-low",
+  "date": "2026-11-13",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold rebounds from a 13-month low as US yields jump on bigger Fed hike bets",
+  "move": "Spot gold $3,915 (+1%), about -3.5% on the week",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860",
+  "note": "Veille 2026-11-13",
+  "edition": "2026-11-13",
+  "story": 1
+ },
+ {
+  "id": "2026-11-13-gas-ttf-winter-rally",
+  "date": "2026-11-13",
+  "commodity": "gas",
+  "place": "528",
+  "title": "European gas extends rally on winter supply worries",
+  "move": "TTF about EUR 96.7/MWh (+4.8%), about +13% on the week",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/commodities",
+  "note": "Veille 2026-11-13",
+  "edition": "2026-11-13",
+  "story": 2
+ },
+ {
+  "id": "2026-11-13-semis-china-export-curbs",
+  "date": "2026-11-13",
+  "commodity": "semis",
+  "place": "840",
+  "title": "US Congress moves toward tighter AI chip export curbs on China after Huang exit",
+  "move": "Z.AI -12%, Nvidia -4.3% on Thursday; Applied Materials revenue $10.41B vs $10.30B expected",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
+  "note": "Veille 2026-11-13",
+  "edition": "2026-11-13",
+  "story": 3
+ },
+ {
   "id": "2026-11-12-crude-peace-hopes-drop",
   "date": "2026-11-12",
   "commodity": "crude",
@@ -24,6 +63,19 @@
   "note": "Veille 2026-11-12",
   "edition": "2026-11-12",
   "story": 3
+ },
+ {
+  "id": "2026-11-13-crude-saudi-sites-attacks",
+  "date": "2026-11-12",
+  "commodity": "crude",
+  "place": "682",
+  "title": "Houthis claim strikes on Saudi East-West pipeline, Yanbu and an Aramco building in Riyadh",
+  "move": "Brent settles $95.82 (+3.3%), WTI $88.74 (+2.6%)",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171",
+  "note": "Veille 2026-11-13",
+  "edition": "2026-11-13",
+  "story": 0
  },
  {
   "id": "2026-11-11-crude-hormuz-optimism-fades",

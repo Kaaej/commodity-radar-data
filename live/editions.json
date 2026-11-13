@@ -1,5 +1,102 @@
 [
  {
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "note": "Veille 2026-11-13, brief du matin",
+  "stories": [
+   {
+    "title": "Oil jumps 3% as Houthis claim strikes on Saudi export lifeline",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Brent settled at $95.82 (+3.3%) and WTI at $88.74 (+2.6%) on Thursday after Yemen's Houthis claimed attacks on Saudi energy sites. On Friday Brent was flat near $95.4, on track for a second weekly loss of about 2.4%.",
+    "body": "The Houthis said they hit a pumping station on the East-West pipeline, a facility in Yanbu and an Aramco building in Riyadh; the Saudi-led coalition said it downed two drones and no damage was confirmed. Iran's military also said four tankers were struck by explosions in the Strait of Hormuz, and Ukrainian drones hit the Russian port of Ust-Luga. Prices held despite a 4.7 million barrel US crude build, against an expected draw of 1.1 million, while President Trump said Washington no longer needs a deal with Iran and will keep its blockade.",
+    "why": "Yanbu, fed by the East-West pipeline, is Saudi Arabia's main export outlet while Hormuz is disrupted, carrying about 4 million barrels a day. Attacks on that corridor target the one route that offsets the strait.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-5020171"
+     },
+     {
+      "name": "Reuters via Investing.com (Friday)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-5024008"
+     }
+    ]
+   },
+   {
+    "title": "US 10-year near 5.13%, gold bounces off a 13-month low",
+    "markets": [
+     "macro",
+     "metals"
+    ],
+    "lead": "Treasury yields jumped more than 12 basis points on some maturities on Thursday, led by the short end. Spot gold rebounded 1% to about $3,915 on Friday but is down about 3.5% on the week.",
+    "body": "Markets fully price a 25 basis point Fed hike in December and some investors consider 50, with bets extending beyond December after hot October inflation. The dollar index held near 103.2 and silver near $50.1. US producer prices for October are due on Friday.",
+    "why": "Higher yields and a firm dollar weigh on precious metals, while the producer price data will show whether the oil shock is feeding into industrial prices.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860"
+     }
+    ]
+   },
+   {
+    "title": "European gas rally extends as heating season starts",
+    "markets": [
+     "energy",
+     "lng"
+    ],
+    "lead": "Dutch TTF traded near EUR 96.7/MWh on Friday, up about 4.8% on the day and about 13% on the week.",
+    "body": "Prompt contracts are driven by winter supply worries as the heating season begins and by Gulf shipping risks, while Russia-Ukraine peace talks weigh only on longer-dated contracts. US Henry Hub slipped to $3.30 and EU carbon permits rose to EUR 90.38.",
+    "why": "Gas is decoupling from oil: Brent is down on the week while TTF surges, a clear case of a near-term risk premium in the forward curve.",
+    "sources": [
+     {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodities"
+     },
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/european-gas-extends-rally-to-third-day-as-nearterm-supply-anxiety-persists-5020480"
+     }
+    ]
+   },
+   {
+    "title": "Congress eyes tighter China chip curbs; Applied Materials beats",
+    "markets": [
+     "equities"
+    ],
+    "lead": "House Speaker Mike Johnson said a consensus is forming in Congress to limit AI chip exports to China, after Jensen Huang's resignation from Nvidia. Applied Materials reported record quarterly revenue of $10.41 billion, above the $10.30 billion expected.",
+    "body": "Lawmakers are pushing at least four bills on export oversight, chip tracking, equipment sales and remote data center access, and Huang is expected to testify before November 26. Chinese AI stocks fell, with Z.AI down 12%, and Nvidia closed Thursday down 4.3%. Applied Materials guided to about $11.1 billion next quarter versus $10.89 billion expected; after-hours moves varied by source.",
+    "why": "Equipment demand for AI chips remains strong, but the main risk is shifting to export policy, which shapes demand for the metals and power behind data centers.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288"
+     },
+     {
+      "name": "CryptoBriefing",
+      "url": "https://cryptobriefing.com/applied-materials-earnings-record-q4-revenue-2026-11/"
+     }
+    ]
+   },
+   {
+    "title": "Iran's Guards claim strike on US radar in Bahrain",
+    "markets": [
+     "geopolitics"
+    ],
+    "lead": "Iran's Revolutionary Guards said on Friday they targeted a US early-warning radar in Bahrain, the first such claim against US military assets in a Gulf state since early September.",
+    "body": "The Guards called it retaliation for an air attack on a telecom tower in Iran's Hormozgan province. No damage was confirmed and there was no immediate US or Bahraini comment.",
+    "why": "The fragile lull is fraying just as the oil market bets on a lasting blockade without renewed large-scale fighting.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/irans-guards-say-they-targeted-a-us-earlywarning-radar-in-bahrain-5024146"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-12",
   "date": "2026-11-12",
   "note": "Veille 2026-11-12, brief du matin",
