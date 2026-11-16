@@ -1,5 +1,115 @@
 [
  {
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "note": "Veille 2026-11-16, brief du matin",
+  "stories": [
+   {
+    "title": "Iran claims mine strikes on three tankers in Hormuz, oil shrugs",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Iran's Revolutionary Guards navy said three tankers caught fire after hitting mines in the Strait of Hormuz on Saturday. Brent was at $95.37 (-0.49%) and WTI at $88.33 on Monday morning, after settling at $95.84 on Friday.",
+    "body": "The Guards said the unnamed tankers were using a prohibited route; Reuters could not verify the claim. On Sunday the Saudi-led coalition said it intercepted two Houthi missiles aimed at Riyadh and three drones over the Eastern Province, with no damage reported. Traders focused instead on the IEA's call for a fourth-quarter surplus as Gulf exports recover, while UBS still sees Brent at $110 by year-end because supply buffers are thin.",
+    "why": "Unconfirmed incidents no longer move the flat price, but mine risk keeps freight and insurance costs high: the war premium is shifting from crude to shipping.",
+    "sources": [
+     {
+      "name": "Investing.com, Reuters (mines)",
+      "url": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556"
+     },
+     {
+      "name": "Investing.com, Reuters (prices)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-on-expectations-of-coming-supply-surplus-5028312"
+     },
+     {
+      "name": "Investing.com (UBS)",
+      "url": "https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142"
+     }
+    ]
+   },
+   {
+    "title": "Asian chip stocks crash on the eve of Nvidia results",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "Taiwan's benchmark fell 6.03% to 41,040, its second-largest point drop on record, with TSMC down 5.7%. The KOSPI lost about 4% and SK Hynix 5.6%.",
+    "body": "Doubts over Nvidia after Jensen Huang's resignation weigh on the whole chain: Nvidia's market value has fallen from about $5.8 trillion in early October to $3.9 trillion. Weak Chinese October activity data and a 0.1% annualised contraction in Japan's third-quarter GDP added pressure. Over the weekend the FT reported Huang is weighing a comeback and the WSJ said Washington plans to name AI firms as national champions; Nvidia reports on Tuesday, with about $109 billion of revenue expected, and Anthropic's Nasdaq listing follows two days later.",
+    "why": "Chips drive demand narratives for copper, power and gas through data centres; a sharp reset in AI spending expectations would ripple into those markets.",
+    "sources": [
+     {
+      "name": "Investing.com (Asia)",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-deepen-ahead-of-nvidia-results-5028343"
+     },
+     {
+      "name": "Investing.com (TSMC)",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-tumbling-today-93CH-5028421"
+     },
+     {
+      "name": "Investing.com, Reuters (Huang)",
+      "url": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+     }
+    ]
+   },
+   {
+    "title": "Gold falls below $3,900 as Fed hike bets build",
+    "markets": [
+     "metals",
+     "macro"
+    ],
+    "lead": "Spot gold dropped 0.4% to $3,868.88, a one-year low, after a 4.5% weekly loss; silver fell 2.1% to $47.74.",
+    "body": "CME FedWatch prices a 94% chance of a 25 basis point Fed hike on December 9 and 6% for 50 points, with the US 10-year yield at 5.14% and the dollar index at 103.44. Fed Chair Kevin Warsh speaks on Monday and the October minutes are due Wednesday. Goldman Sachs cut its end-2027 gold forecast to $4,650 from $4,800.",
+    "why": "Rising real yields are overpowering war-driven safe-haven demand, a reminder that gold trades as a rates asset first.",
+    "sources": [
+     {
+      "name": "Investing.com (gold)",
+      "url": "https://www.investing.com/news/commodities-news/gold-falls-below-3900-as-december-fed-hike-bets-build-warsh-in-focus-5028296"
+     },
+     {
+      "name": "Investing.com (Goldman)",
+      "url": "https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310"
+     }
+    ]
+   },
+   {
+    "title": "Europe enters winter with gas storage far below normal",
+    "markets": [
+     "energy",
+     "lng"
+    ],
+    "lead": "Dutch TTF eased 0.9% to EUR 90.11/MWh on Monday after a weekly gain of about 12%. EU storage stands at 70.6% against a five-year seasonal average of 89%, and Germany's at 57%.",
+    "body": "Last week's rally came from unplanned Norwegian outages at Troll and Asgard, colder forecasts and disrupted Gulf LNG exports, which force Europe to compete with Asia for cargoes. Goldman Sachs sees TTF reaching EUR 150/MWh in the first quarter of 2027.",
+    "why": "A storage gap of nearly 20 points at the start of the heating season makes European gas the most asymmetric price risk in energy this winter.",
+    "sources": [
+     {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+     },
+     {
+      "name": "Investing.com (Goldman)",
+      "url": "https://www.investing.com/news/commodities-news/goldman-sees-gulf-lng-disruption-pushing-ttf-gas-prices-higher-93CH-5024622"
+     }
+    ]
+   },
+   {
+    "title": "US diesel drops below $6 a gallon",
+    "markets": [
+     "energy"
+    ],
+    "lead": "The US national average for diesel fell to $5.998 a gallon on November 14, a two-month low and 8% below the record $6.519 of September 22. Gasoline is below $4.",
+    "body": "Brent has dropped 18.5% over two weeks, autumn demand is softening and refinery maintenance is largely over. The IEA's emergency release will make 71 million barrels available by end-February, including 15 million barrels of diesel.",
+    "why": "Refining margins are normalising, gasoline first: the product cracks that drove the inflation spike are starting to unwind.",
+    "sources": [
+     {
+      "name": "Investing.com, Reuters",
+      "url": "https://www.investing.com/news/commodities-news/us-diesel-below-6-a-gallon-at-2month-low-on-easing-tensions-weaker-demand-5027622"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-13",
   "date": "2026-11-13",
   "note": "Veille 2026-11-13, brief du matin",

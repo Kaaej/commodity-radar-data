@@ -9,6 +9,24 @@
   "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
  },
  {
+  "id": "2026-12-11-iea-omr",
+  "date": "2026-12-11",
+  "time": "10:00",
+  "region": "WORLD",
+  "type": "energy",
+  "event": "IEA Oil Market Report",
+  "url": "https://www.iea.org/data-and-statistics/data-product/oil-market-report-omr"
+ },
+ {
+  "id": "2026-12-10-us-cpi",
+  "date": "2026-12-10",
+  "time": "14:30",
+  "region": "US",
+  "type": "data",
+  "event": "US CPI (November)",
+  "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
   "id": "2026-12-09-fomc",
   "date": "2026-12-09",
   "event": "Fed decision and projections",
@@ -16,6 +34,24 @@
   "time": "20:00",
   "type": "cb",
   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+ },
+ {
+  "id": "2026-12-09-eia-wpsr",
+  "date": "2026-12-09",
+  "time": "16:30",
+  "region": "US",
+  "type": "energy",
+  "event": "EIA weekly petroleum stocks",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-12-08-eia-steo",
+  "date": "2026-12-08",
+  "time": "",
+  "region": "US",
+  "type": "energy",
+  "event": "EIA Short-Term Energy Outlook",
+  "url": "https://www.eia.gov/outlooks/steo/release_schedule.php"
  },
  {
   "id": "2026-12-04-us-nfp",
