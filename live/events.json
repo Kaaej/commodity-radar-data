@@ -1,5 +1,31 @@
 [
  {
+  "id": "2026-11-17-crude-spr-1982-low",
+  "date": "2026-11-17",
+  "commodity": "crude",
+  "place": "840",
+  "title": "Brent slips below $92 as US strategic reserve hits lowest since 1982",
+  "move": "Brent $92.00 (-0.5%) early Tuesday; SPR 276.4m bbl",
+  "source": "Investing.com, Reuters",
+  "url": "https://www.investing.com/news/commodities-news/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions-5031433",
+  "note": "Veille 2026-11-17",
+  "edition": "2026-11-17",
+  "story": 3
+ },
+ {
+  "id": "2026-11-17-copper-lowest-since-june",
+  "date": "2026-11-17",
+  "commodity": "copper",
+  "place": "world",
+  "title": "Copper falls to its lowest since June with the AI selloff",
+  "move": "$5.96/lb (-0.6%); -8.8% in a month",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/commodity/copper",
+  "note": "Veille 2026-11-17",
+  "edition": "2026-11-17",
+  "story": 4
+ },
+ {
   "id": "2026-11-16-semis-taiwan-selloff",
   "date": "2026-11-16",
   "commodity": "semis",
@@ -37,6 +63,45 @@
   "note": "Veille 2026-11-16",
   "edition": "2026-11-16",
   "story": 3
+ },
+ {
+  "id": "2026-11-16-diesel-nwe-crack-drop",
+  "date": "2026-11-16",
+  "commodity": "diesel",
+  "place": "356",
+  "title": "NW Europe diesel margins drop as India raises diesel export duty",
+  "move": "ICE gasoil crack $66.69/bbl (-$3.64)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-drop-over-5-on-monday-93CH-5030716",
+  "note": "Veille 2026-11-17",
+  "edition": "2026-11-17",
+  "story": 0
+ },
+ {
+  "id": "2026-11-16-semis-sox-selloff",
+  "date": "2026-11-16",
+  "commodity": "semis",
+  "place": "840",
+  "title": "US chip stocks slump on the eve of Nvidia results",
+  "move": "Philadelphia Semiconductor Index -5.3%; Nvidia -4.1%",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-muted-as-nvidia-earnings-loom-amid-ai-jitters-5031353",
+  "note": "Veille 2026-11-17",
+  "edition": "2026-11-17",
+  "story": 1
+ },
+ {
+  "id": "2026-11-16-semis-overseas-datacenter-curbs",
+  "date": "2026-11-16",
+  "commodity": "semis",
+  "place": "156",
+  "title": "US requires licences for AI chips sent to overseas data centres serving China",
+  "move": "Taiwan Weighted -2.18%; SMIC +8.7%",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619",
+  "note": "Veille 2026-11-17",
+  "edition": "2026-11-17",
+  "story": 2
  },
  {
   "id": "2026-11-14-crude-hormuz-mines",

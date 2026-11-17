@@ -1,5 +1,116 @@
 [
  {
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "note": "Veille 2026-11-17, brief du matin",
+  "stories": [
+   {
+    "title": "European diesel margins fall as India taxes fuel exports",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Northwest European diesel margins fell more than 5% on Monday: ICE low-sulphur gasoil traded $66.69 a barrel above Brent, down $3.64 on the session. India raised its export duty on diesel from 11.50 to 14 rupees a litre.",
+    "body": "Lower crude futures drove the drop in the crack. On the same day a Ukrainian strike damaged processing units at Russia's Ilsky refinery in the Krasnodar region, and India also raised its jet fuel export duty from 11 to 12.50 rupees a litre while leaving gasoline at zero, against wholesale inflation of 12.3% in October.",
+    "why": "Fewer Indian diesel cargoes heading west would support European cracks over time, even as falling crude pulls them down today.",
+    "sources": [
+     {
+      "name": "Investing.com (diesel margins)",
+      "url": "https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-drop-over-5-on-monday-93CH-5030716"
+     },
+     {
+      "name": "Investing.com (India duties)",
+      "url": "https://www.investing.com/news/commodities-news/india-raises-export-duties-on-diesel-and-aviation-fuel-93CH-5030714"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street falls a third day as chip stocks slump before Nvidia results",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "On Monday the S&P 500 fell 1.9% to 7,416.59, the Nasdaq Composite 2.5% and the Philadelphia Semiconductor Index 5.3%; the VIX jumped 18.7% to 22.91. Nvidia lost 4.1% and is down nearly 24% in November.",
+    "body": "Nvidia's board is not considering a return of Jensen Huang, people familiar told Reuters, despite a petition with more than 180,000 signatures and support from President Trump; the company has lost about $800 billion in market value since the affair broke. It reports fiscal third-quarter results after the US close on Tuesday, with revenue of about $109 billion expected (LSEG).",
+    "why": "Chip makers drive demand for copper, power and specialty metals: a weak AI outlook would hit those trades too.",
+    "sources": [
+     {
+      "name": "Investing.com (Wall Street)",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-muted-as-nvidia-earnings-loom-amid-ai-jitters-5031353"
+     },
+     {
+      "name": "Investing.com, Reuters (Huang)",
+      "url": "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956"
+     }
+    ]
+   },
+   {
+    "title": "US curbs Chinese access to AI chips through overseas data centres",
+    "markets": [
+     "geopolitics",
+     "equities"
+    ],
+    "lead": "A new Commerce Department rule requires export licences for advanced AI chips shipped to Singapore, Malaysia, Thailand, Indonesia and Brazil. Taiwan's index closed 2.18% lower on Tuesday, Samsung fell 3.3% and TSMC 2.0%, while China's SMIC jumped 8.7%.",
+    "body": "Overseas data centres that rent significant computing power to companies based in China now need a licence, with 90 days for existing operators to comply, and the rule covers remote cloud access, not just physical shipments. Chinese AI groups fell (Baidu -6.8%, Alibaba -4.9%) while domestic chipmakers rallied on hopes of more local demand.",
+    "why": "Export controls now target services as well as goods, reshaping where data centres, and the power and copper they need, get built in Southeast Asia.",
+    "sources": [
+     {
+      "name": "Investing.com (rule)",
+      "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619"
+     },
+     {
+      "name": "Investing.com, Reuters (Samsung, TSMC)",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-elec-tsmc-shares-fall-after-us-announces-curbs-on-china-s-chip-access-5031711"
+     }
+    ]
+   },
+   {
+    "title": "Brent slips below $92 as US strategic reserve falls to a 1982 low",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent traded around $91.5 on Tuesday morning, down about 1%, after falling 2.7% on Monday. US Strategic Petroleum Reserve stocks fell to 276.4 million barrels, the lowest since August 1982.",
+    "body": "Traders focus on the IEA's call for a fourth-quarter surplus as Gulf exports recover, and on Vice President Vance saying Washington wants to avoid a prolonged conflict with Iran. OPEC reviewed members' maximum production capacity on Monday ahead of the November 29 OPEC+ meeting on 2027 quotas, and Oman and Iran discussed shipping safety in Hormuz. European gas rose about 1.9% to near EUR 86/MWh, with EU storage below 71%.",
+    "why": "A depleted US reserve leaves less cushion against a new supply shock just as the market prices only the surplus.",
+    "sources": [
+     {
+      "name": "Investing.com, Reuters (oil)",
+      "url": "https://www.investing.com/news/commodities-news/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions-5031433"
+     },
+     {
+      "name": "Investing.com, Reuters (Oman and Iran)",
+      "url": "https://www.investing.com/news/commodities-news/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-5031688"
+     },
+     {
+      "name": "Trading Economics (TTF)",
+      "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+     }
+    ]
+   },
+   {
+    "title": "Gold rebounds from a 14-month low, copper at its lowest since June",
+    "markets": [
+     "metals",
+     "macro"
+    ],
+    "lead": "Spot gold rose 0.7% to $3,881.59 an ounce on Tuesday, silver 1.6% to $47.75 and platinum 1.9%. Copper traded near $5.96 a pound, down 8.8% over a month.",
+    "body": "Cleveland Fed President Beth Hammack backed gradual rate increases, while Fed Chair Kevin Warsh gave no rate guidance on Monday; the minutes of the October meeting are due Wednesday. Copper is weighed down by the AI stock selloff, a firmer dollar and LME stocks of about 320,000 tonnes, up from 205,000 tonnes in August.",
+    "why": "Copper now trades as an AI infrastructure proxy, so Nvidia's results may move it as much as Chinese data.",
+    "sources": [
+     {
+      "name": "Investing.com, Reuters (gold)",
+      "url": "https://www.investing.com/news/commodities-news/gold-hovers-near-14month-low-as-fed-hike-bets-and-tech-selloff-weigh-5031431"
+     },
+     {
+      "name": "Trading Economics (copper)",
+      "url": "https://tradingeconomics.com/commodity/copper"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-16",
   "date": "2026-11-16",
   "note": "Veille 2026-11-16, brief du matin",
