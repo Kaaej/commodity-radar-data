@@ -1,5 +1,108 @@
 [
  {
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "note": "Veille 2026-11-18, brief du matin",
+  "stories": [
+   {
+    "title": "Oil slips as US stocks swell, while attacks continue around Hormuz and the Saudi bypass pipeline",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent fell 0.7% to $92.53 and WTI 1.4% to $84.77 early on Wednesday after the API reported US crude stocks up 5.28 million barrels and gasoline up 5.12 million barrels.",
+    "body": "Crude is building on the US Gulf Coast, which closes the WTI export arbitrage to Asia and northwest Europe and pushed the Brent-WTI spread to a two-week high. Risk has not gone away: Iranian drones targeted a US radar in Bahrain and the US struck a missile site on Qeshm island on Tuesday, an LPG tanker was hit near Hormuz on Monday, and the Houthis said they launched five drones at two pumping stations of Saudi Arabia's East-West pipeline, with no damage confirmed. LSEG analysts see no normalisation of Hormuz flows under current conditions.",
+    "why": "The paper market is pricing an oversupplied US physical market while the main route around Hormuz is being targeted, an asymmetry that official EIA stock data later today will test.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters, oil)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544"
+     },
+     {
+      "name": "Investing.com (Reuters, Iran)",
+      "url": "https://www.investing.com/news/commodities-news/tehran-denies-report-of-a-potential-iranian-plan-to-detonate-dirty-bomb-in-washington-5032621"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia beats with $115.8bn revenue and a $130bn outlook, but the stock barely moves",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "Nvidia reported fiscal third-quarter revenue of $115.84bn, up 103% and above the $108.85bn expected, with data centre sales of $107.6bn, and guided to $130bn plus or minus 3% against about $125bn expected.",
+    "body": "The outlook excludes any data centre compute sales to China: Nvidia will stop shipping licensed Hopper products there, worth $2.4bn last quarter. Shares rose as much as 5% after hours before fading to about +0.7%, as the board ruled out the return of Jensen Huang and the Wall Street Journal reported an SEC probe into its disclosures. Before the release the S&P 500 closed 1.0% lower at 7,340.77, its lowest close since July 29, with the VIX at 25.46.",
+    "why": "AI demand is confirmed by the numbers, the main driver of copper and power demand from data centres, but investors no longer pay for growth alone; Anthropic's IPO pricing today tests the same appetite.",
+    "sources": [
+     {
+      "name": "Investing.com (Nvidia results)",
+      "url": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943"
+     },
+     {
+      "name": "Investing.com (Asia markets)",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-nvidia-optimism-offsets-wall-street-rout-fed-mins-in-focus-5034691"
+     },
+     {
+      "name": "Investing.com (Wall Street)",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-muted-as-nvidia-earnings-loom-amid-ai-jitters-5031353"
+     }
+    ]
+   },
+   {
+    "title": "Gold breaks below $3,800 and copper drops 2.9% as Fed officials talk up more hikes",
+    "markets": [
+     "metals",
+     "macro"
+    ],
+    "lead": "Spot gold fell 1.5% to $3,790 and copper about 2.9% to $5.82 a pound early on Wednesday, with the dollar index at 103.65.",
+    "body": "St. Louis Fed President Alberto Musalem said several more rate increases are likely before spring and New York Fed President John Williams said there is more work to do on inflation. Markets price quarter-point hikes in December and January and another by April, and ANZ does not rule out 50 basis points next month. Copper is down about 11% in a month, with LME stocks near 320,000 tonnes against 205,000 in August; Fed minutes are due later today.",
+    "why": "Rising real rates weigh on gold, while a firm dollar and doubts over AI spending weigh on copper: two different mechanisms behind the same sell-off.",
+    "sources": [
+     {
+      "name": "Investing.com (gold)",
+      "url": "https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463"
+     },
+     {
+      "name": "Trading Economics (copper)",
+      "url": "https://tradingeconomics.com/commodity/copper"
+     }
+    ]
+   },
+   {
+    "title": "European gas holds near EUR 84 with storage far below normal",
+    "markets": [
+     "lng",
+     "energy"
+    ],
+    "lead": "Dutch TTF traded at EUR 84.11/MWh, down 1.5%, after holding above EUR 85 in the previous session; EU storage is about 70% full against a five-year average of 89%.",
+    "body": "Ship attacks around Hormuz threaten LNG cargoes from the Gulf and Qatari supply remains curtailed. German storage was below 58% on a November 17 reading, and colder weather in the forecast could speed up withdrawals.",
+    "why": "A 19-point storage gap before winter keeps European gas tight even as crude eases.",
+    "sources": [
+     {
+      "name": "Trading Economics (TTF)",
+      "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+     }
+    ]
+   },
+   {
+    "title": "Euronext wheat near a four-week high after the Crimea bridge strike",
+    "markets": [
+     "agriculture",
+     "geopolitics"
+    ],
+    "lead": "December wheat in Paris closed 0.2% higher at EUR 235.75 a tonne on Tuesday after touching EUR 238.75, and Chicago wheat gained about 2% from a four-month low.",
+    "body": "Ukraine's partial destruction of the Kerch bridge cut hopes of de-escalation after peace talks resumed. Gains were capped by the euro, which steadied after a 19-month low against the dollar, cheap Argentine wheat and Turkey's sale of 400,000 tonnes of milling wheat for export.",
+    "why": "The Black Sea remains the main risk premium in world wheat prices.",
+    "sources": [
+     {
+      "name": "Investing.com (wheat)",
+      "url": "https://www.investing.com/news/commodities-news/euronext-wheat-edges-higher-after-ukraine-hits-crimea-bridge-93CH-5033834"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-17",
   "date": "2026-11-17",
   "note": "Veille 2026-11-17, brief du matin",

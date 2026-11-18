@@ -1,5 +1,44 @@
 [
  {
+  "id": "2026-11-18-crude-api-build-hormuz",
+  "date": "2026-11-18",
+  "commodity": "crude",
+  "place": "840",
+  "title": "US crude and gasoline stocks swell while attacks continue around Hormuz",
+  "move": "Brent $92.53 (-0.7%), WTI $84.77 (-1.4%)",
+  "source": "Investing.com (Reuters)",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
+  "note": "Veille 2026-11-18",
+  "edition": "2026-11-18",
+  "story": 0
+ },
+ {
+  "id": "2026-11-18-copper-dollar-slide",
+  "date": "2026-11-18",
+  "commodity": "copper",
+  "place": "world",
+  "title": "Copper slides as a firmer dollar and hawkish Fed talk weigh, with LME stocks near 320,000 tonnes",
+  "move": "Copper $5.82/lb (-2.9%)",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/commodity/copper",
+  "note": "Veille 2026-11-18",
+  "edition": "2026-11-18",
+  "story": 2
+ },
+ {
+  "id": "2026-11-18-gas-storage-70pct",
+  "date": "2026-11-18",
+  "commodity": "gas",
+  "place": "world",
+  "title": "TTF holds near EUR 84 as EU gas storage sits at 70% against an 89% seasonal average",
+  "move": "TTF EUR 84.11/MWh (-1.5%)",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/commodity/eu-natural-gas",
+  "note": "Veille 2026-11-18",
+  "edition": "2026-11-18",
+  "story": 3
+ },
+ {
   "id": "2026-11-17-crude-spr-1982-low",
   "date": "2026-11-17",
   "commodity": "crude",
@@ -23,6 +62,32 @@
   "url": "https://tradingeconomics.com/commodity/copper",
   "note": "Veille 2026-11-17",
   "edition": "2026-11-17",
+  "story": 4
+ },
+ {
+  "id": "2026-11-17-semis-nvidia-q3-beat",
+  "date": "2026-11-17",
+  "commodity": "semis",
+  "place": "840",
+  "title": "Nvidia beats with $115.8bn quarterly revenue and guides to $130bn, shares barely move",
+  "move": "Revenue $115.8bn (+103% y/y)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943",
+  "note": "Veille 2026-11-18",
+  "edition": "2026-11-18",
+  "story": 1
+ },
+ {
+  "id": "2026-11-17-wheat-kerch-bridge",
+  "date": "2026-11-17",
+  "commodity": "wheat",
+  "place": "804",
+  "title": "Euronext wheat near a four-week high after Ukraine hits the Crimea bridge",
+  "move": "Euronext Dec wheat EUR 235.75/t (+0.2%), CBOT about +2%",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/euronext-wheat-edges-higher-after-ukraine-hits-crimea-bridge-93CH-5033834",
+  "note": "Veille 2026-11-18",
+  "edition": "2026-11-18",
   "story": 4
  },
  {
