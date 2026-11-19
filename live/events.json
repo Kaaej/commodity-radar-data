@@ -1,5 +1,18 @@
 [
  {
+  "id": "2026-11-19-crude-trump-iran-strikes",
+  "date": "2026-11-19",
+  "commodity": "crude",
+  "place": "364",
+  "title": "Oil steadies as Trump weighs new strikes on Iran while US stocks build",
+  "move": "Brent $92.41 (+0.5%)",
+  "source": "Investing.com (Reuters)",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-report-says-trump-considering-more-iran-strikes-5037588",
+  "note": "Veille 2026-11-19",
+  "edition": "2026-11-19",
+  "story": 0
+ },
+ {
   "id": "2026-11-18-crude-api-build-hormuz",
   "date": "2026-11-18",
   "commodity": "crude",
@@ -37,6 +50,58 @@
   "note": "Veille 2026-11-18",
   "edition": "2026-11-18",
   "story": 3
+ },
+ {
+  "id": "2026-11-18-diesel-russian-runs-cut-45pct",
+  "date": "2026-11-18",
+  "commodity": "diesel",
+  "place": "643",
+  "title": "Ukrainian drone strikes cut Russian refinery crude runs by 45% since late October",
+  "move": "Russian crude processing -45%",
+  "source": "Investing.com (Reuters)",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+  "note": "Veille 2026-11-19",
+  "edition": "2026-11-19",
+  "story": 0
+ },
+ {
+  "id": "2026-11-18-gold-lowest-close-since-sep-2025",
+  "date": "2026-11-18",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold posts lowest close since September 2025 on Fed hike bets, then rebounds",
+  "move": "Gold -3.2%, then $3,754.85 (+0.8%) on Nov 19",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506",
+  "note": "Veille 2026-11-19",
+  "edition": "2026-11-19",
+  "story": 3
+ },
+ {
+  "id": "2026-11-18-corn-4-5-month-low",
+  "date": "2026-11-18",
+  "commodity": "corn",
+  "place": "840",
+  "title": "CBOT corn falls to a four-and-a-half-month low on dollar strength and weaker crude",
+  "move": "Corn Dec $4.355/bu (-2.52%)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/cbot-corn-futures-drop-to-412month-low-on-dollar-strength-93CH-5037076",
+  "note": "Veille 2026-11-19",
+  "edition": "2026-11-19",
+  "story": 4
+ },
+ {
+  "id": "2026-11-18-wheat-lowest-since-january",
+  "date": "2026-11-18",
+  "commodity": "wheat",
+  "place": "840",
+  "title": "Chicago wheat drops to its lowest since January as the Crimea bridge premium fades",
+  "move": "Wheat Dec $5.7025/bu (-25 cents)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/chicago-wheat-futures-fall-to-lowest-level-since-january-93CH-5036912",
+  "note": "Veille 2026-11-19",
+  "edition": "2026-11-19",
+  "story": 4
  },
  {
   "id": "2026-11-17-crude-spr-1982-low",

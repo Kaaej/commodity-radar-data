@@ -1,5 +1,117 @@
 [
  {
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "note": "Veille 2026-11-19, brief du matin",
+  "stories": [
+   {
+    "title": "Oil holds near $92 as Trump weighs new Iran strikes, Russian refining is hit and US stocks build",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent was steady at $92.18 (+0.25%) and WTI at $82.33 early on Thursday, after WTI fell 3.2% on Wednesday to its lowest since 26 August on a 3.4 million barrel US crude build.",
+    "body": "The New York Times reports that President Trump is considering another round of extensive strikes on Iran under Israeli pressure, with no decision taken. The Houthis fired missiles at Riyadh on Thursday, Iran says three tankers were disabled by mines east of Hormuz, and Reuters industry sources say Ukrainian drones have cut Russian refinery crude runs by 45% since late October. Against that, Hormuz flows are back near pre-war levels and the IEA sees a surplus; Dutch TTF gas rebounded 2.4% to 82.80 euros per MWh.",
+    "why": "The market is pricing physical oversupply while escalation risk and a Russian product shortfall remain, so any decision on Iran strikes could reprice crude and diesel quickly.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters, Iran strikes)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-report-says-trump-considering-more-iran-strikes-5037588"
+     },
+     {
+      "name": "Investing.com (Reuters, oil)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604"
+     },
+     {
+      "name": "Investing.com (prices)",
+      "url": "https://www.investing.com/commodities/real-time-futures"
+     }
+    ]
+   },
+   {
+    "title": "Fed minutes: nearly all officials see more hikes, a couple open to more than 25 bp in December",
+    "markets": [
+     "macro"
+    ],
+    "lead": "Minutes of the 27-28 October meeting, held at 3.75%-4.00%, show almost all participants expect further increases, and a couple say a move larger than 25 basis points could be considered on 9 December if inflation disappoints.",
+    "body": "Governor Waller argues for 50 bp or a clear signal of more hikes in 2027, while Williams, Hammack and Logan prefer a gradual path. CME FedWatch prices about 90-95% odds of 25 bp and about 5% of 50 bp. The US 10-year yield is near 5.07% and the dollar index near 103.8, a 19-month high; the minutes also flag risks from rising AI-related debt.",
+    "why": "A stronger dollar and higher real rates are the common driver behind this week's slide in gold, copper and grains.",
+    "sources": [
+     {
+      "name": "Investing.com (Fed minutes)",
+      "url": "https://www.investing.com/news/economy-news/couple-of-policymakers-see-more-than-a-25-bp-rate-hike-in-december--fed-minutes-5036867"
+     },
+     {
+      "name": "Investing.com (Asia markets)",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-taiwan-drops-4-ai-jitters-blunt-anthropic-ipo-optimism-5037723"
+     }
+    ]
+   },
+   {
+    "title": "Anthropic raises $81.3bn in a record IPO as Taiwan's AI stocks slump 4.6%",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "Anthropic priced 980 million shares at $83, above its $70-78 range, raising about $81.3 billion at a valuation near $1.5 trillion; it starts trading on Nasdaq as ANT on Thursday.",
+    "body": "A further $26 billion private placement includes Nvidia and AMD, and Nasdaq 100 futures rose as much as 2%. Asia sold AI stocks anyway: Taiwan's index fell 4.6% to 38,347.67 (-14.9% this month), the Hang Seng lost 1.9%, and Nvidia closed 2.9% lower on Wednesday, 36% below its 6 October record. Foreign investors have sold more than NT$180 billion of Taiwanese shares in three sessions.",
+    "why": "AI demand drives copper, power and semiconductor supply chains, so a split between record funding and falling chip stocks matters well beyond equities.",
+    "sources": [
+     {
+      "name": "Investing.com (Anthropic IPO)",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-weighs-ipo-pricing-of-8085-a-share-bloomberg-reports-5036963"
+     },
+     {
+      "name": "Investing.com (Taiwan)",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-plunge-46-as-ai-rout-deepens-chip-and-pcb-shares-hit-limitdown-5037869"
+     },
+     {
+      "name": "Investing.com (US futures)",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-5037518"
+     }
+    ]
+   },
+   {
+    "title": "Gold rebounds from its lowest close since September 2025; copper steadies after a 6% drop",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold rose 0.8% to $3,754.85 early on Thursday after a 3.2% fall on Wednesday; silver gained 1.4% to $45.72.",
+    "body": "Bargain hunters returned on central-bank buying, and ANZ calls the market oversold. Gold has lost about 30% since the US-Iran war began in late February, as costly energy lifted inflation and pushed central banks to tighten. COMEX copper was near $5.68 per pound (+0.3%) and LME copper near $12,533 per tonne (-0.3%) after Wednesday's slump.",
+    "why": "Gold falling during a war shows that real rates, not geopolitics, are setting the price for now.",
+    "sources": [
+     {
+      "name": "Investing.com (gold)",
+      "url": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506"
+     },
+     {
+      "name": "Investing.com (prices)",
+      "url": "https://www.investing.com/commodities/real-time-futures"
+     }
+    ]
+   },
+   {
+    "title": "Corn hits a four-and-a-half-month low and Chicago wheat its lowest since January",
+    "markets": [
+     "agriculture"
+    ],
+    "lead": "On 18 November CBOT December corn fell 2.5% to $4.355 per bushel, its lowest since 30 June, and December wheat lost 25 cents to $5.7025.",
+    "body": "A stronger dollar ahead of a December Fed hike makes US grain less competitive, and weaker crude weighs on corn through ethanol, with output at 1.126 million barrels per day. Wheat gave back the premium from the Crimea bridge strike as traders looked to a US-China-Russia summit on Ukraine.",
+    "why": "Grain prices are being set by the dollar and energy as much as by crops, a link that matters for every export origin.",
+    "sources": [
+     {
+      "name": "Investing.com (corn)",
+      "url": "https://www.investing.com/news/commodities-news/cbot-corn-futures-drop-to-412month-low-on-dollar-strength-93CH-5037076"
+     },
+     {
+      "name": "Investing.com (wheat)",
+      "url": "https://www.investing.com/news/commodities-news/chicago-wheat-futures-fall-to-lowest-level-since-january-93CH-5036912"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-18",
   "date": "2026-11-18",
   "note": "Veille 2026-11-18, brief du matin",

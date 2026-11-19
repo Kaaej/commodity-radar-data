@@ -1,5 +1,50 @@
 [
  {
+  "id": "2026-12-31-cn-pmi",
+  "date": "2026-12-31",
+  "time": "02:30",
+  "region": "CN",
+  "type": "data",
+  "event": "NBS manufacturing PMI (December)",
+  "url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html"
+ },
+ {
+  "id": "2026-12-30-eia-wpsr",
+  "date": "2026-12-30",
+  "time": "16:30",
+  "region": "US",
+  "type": "energy",
+  "event": "EIA weekly petroleum stocks",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-12-23-us-gdp-pce",
+  "date": "2026-12-23",
+  "time": "14:30",
+  "region": "US",
+  "type": "data",
+  "event": "GDP Q3 (third estimate) and PCE (November)",
+  "url": "https://www.bea.gov/news/schedule"
+ },
+ {
+  "id": "2026-12-23-eia-wpsr",
+  "date": "2026-12-23",
+  "time": "16:30",
+  "region": "US",
+  "type": "energy",
+  "event": "EIA weekly petroleum stocks",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-12-18-jp-boj",
+  "date": "2026-12-18",
+  "time": "",
+  "region": "JP",
+  "type": "cb",
+  "event": "Bank of Japan policy decision (17-18 December meeting)",
+  "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+ },
+ {
   "id": "2026-12-17-ecb",
   "date": "2026-12-17",
   "event": "ECB monetary policy decision",
@@ -7,6 +52,43 @@
   "time": "",
   "type": "cb",
   "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+ },
+ {
+  "id": "2026-12-17-gb-boe",
+  "date": "2026-12-17",
+  "time": "",
+  "region": "GB",
+  "type": "cb",
+  "event": "Bank of England MPC decision (December)",
+  "url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"
+ },
+ {
+  "id": "2026-12-16-eia-wpsr",
+  "date": "2026-12-16",
+  "time": "16:30",
+  "region": "US",
+  "type": "energy",
+  "event": "EIA weekly petroleum stocks",
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+ },
+ {
+  "id": "2026-12-15-us-ppi",
+  "date": "2026-12-15",
+  "time": "14:30",
+  "region": "US",
+  "type": "data",
+  "event": "PPI (November)",
+  "url": "https://www.bls.gov/schedule/2026/12_sched_list.htm",
+  "previous": "+0.3% m/m"
+ },
+ {
+  "id": "2026-12-15-cn-activity",
+  "date": "2026-12-15",
+  "time": "03:00",
+  "region": "CN",
+  "type": "data",
+  "event": "Industrial output, retail sales and fixed-asset investment (November)",
+  "url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html"
  },
  {
   "id": "2026-12-11-iea-omr",
@@ -54,6 +136,15 @@
   "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
  },
  {
+  "id": "2026-12-09-cn-cpi-ppi",
+  "date": "2026-12-09",
+  "time": "02:30",
+  "region": "CN",
+  "type": "data",
+  "event": "CPI and PPI (November)",
+  "url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html"
+ },
+ {
   "id": "2026-12-08-eia-steo",
   "date": "2026-12-08",
   "time": "",
@@ -61,6 +152,15 @@
   "type": "energy",
   "event": "EIA Short-Term Energy Outlook",
   "url": "https://www.eia.gov/outlooks/steo/release_schedule.php"
+ },
+ {
+  "id": "2026-12-08-us-trade",
+  "date": "2026-12-08",
+  "time": "14:30",
+  "region": "US",
+  "type": "data",
+  "event": "Trade balance (October)",
+  "url": "https://www.bea.gov/news/schedule"
  },
  {
   "id": "2026-12-04-us-nfp",
@@ -100,6 +200,15 @@
   "time": "16:00",
   "type": "data",
   "url": "https://www.bls.gov/schedule/2026/home.htm"
+ },
+ {
+  "id": "2026-11-30-cn-pmi",
+  "date": "2026-11-30",
+  "time": "02:30",
+  "region": "CN",
+  "type": "data",
+  "event": "NBS manufacturing PMI (November)",
+  "url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html"
  },
  {
   "id": "2026-11-29-opec-ministerial",
@@ -145,7 +254,8 @@
   "region": "EA",
   "time": "12:00",
   "type": "data",
-  "url": "https://www.ecb.europa.eu/press/calendars/statscal/html/index.en.html"
+  "url": "https://www.ecb.europa.eu/press/calendars/statscal/html/index.en.html",
+  "actual": "4.0% y/y"
  },
  {
   "id": "2026-11-18-ecb-fsr",
@@ -163,7 +273,8 @@
   "region": "US",
   "time": "16:30",
   "type": "energy",
-  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
+  "actual": "Crude +3.4M bbl (417.8M)"
  },
  {
   "id": "2026-11-18-fomc-minutes",
@@ -190,7 +301,8 @@
   "region": "US",
   "time": "14:30",
   "type": "data",
-  "url": "https://www.bls.gov/schedule/2026/home.htm"
+  "url": "https://www.bls.gov/schedule/2026/home.htm",
+  "actual": "+0.3% m/m"
  },
  {
   "id": "2026-11-12-eia-wpsr",
