@@ -1,5 +1,57 @@
 [
  {
+  "id": "2026-11-20-crude-hormuz-mines-houthi",
+  "date": "2026-11-20",
+  "commodity": "crude",
+  "place": "cp:hormuz",
+  "title": "Brent edges up on Houthi strikes on Riyadh and reported mine hits in Hormuz, but heads for a third weekly loss",
+  "move": "Brent $92.57 (+0.6%)",
+  "source": "Investing.com (Reuters)",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518",
+  "note": "Veille 2026-11-20",
+  "edition": "2026-11-20",
+  "story": 0
+ },
+ {
+  "id": "2026-11-20-gold-14-month-low",
+  "date": "2026-11-20",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold falls to a 14-month low on Fed hike bets and margin-call selling",
+  "move": "Spot gold $3,554 (-1.9%), about -9% on the week",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
+  "note": "Veille 2026-11-20",
+  "edition": "2026-11-20",
+  "story": 2
+ },
+ {
+  "id": "2026-11-20-copper-seven-month-low",
+  "date": "2026-11-20",
+  "commodity": "copper",
+  "place": "world",
+  "title": "Copper slides to a seven-month low as the AI selloff and strong dollar weigh",
+  "move": "LME copper $12,191/t (-2.4%)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
+  "note": "Veille 2026-11-20",
+  "edition": "2026-11-20",
+  "story": 2
+ },
+ {
+  "id": "2026-11-20-semis-tsmc-china-curbs",
+  "date": "2026-11-20",
+  "commodity": "semis",
+  "place": "158",
+  "title": "TSMC tightens AI chip curbs on Chinese designers after new US rules; Taiwan stocks plunge",
+  "move": "Taiwan Weighted -6.6%, TSMC about -5%",
+  "source": "Investing.com (Reuters)",
+  "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806",
+  "note": "Veille 2026-11-20",
+  "edition": "2026-11-20",
+  "story": 4
+ },
+ {
   "id": "2026-11-19-crude-trump-iran-strikes",
   "date": "2026-11-19",
   "commodity": "crude",

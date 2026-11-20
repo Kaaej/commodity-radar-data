@@ -1,5 +1,110 @@
 [
  {
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "note": "Veille 2026-11-20, brief du matin",
+  "stories": [
+   {
+    "title": "Oil edges up on Houthi strikes and Hormuz mines, but heads for a third weekly loss",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent rose 0.6% to $92.57 on Friday morning and December WTI 0.5% to $83.63, yet Brent is on track for about -3.5% on the week and December WTI for nearly -6%.",
+    "body": "Houthi missiles targeted Riyadh and Iran's Revolutionary Guards said two supertankers carrying more than 4 million barrels hit mines in the Strait of Hormuz. On Thursday Brent settled at $92.71 (+0.8%) after a New York Times report that Washington was weighing new strikes on Iran; Trump later said he would decide after the start of 2027. Against that, the IEA expects a supply surplus, US crude stocks rose for a second week and Kpler data show Hormuz flows recovering. The December WTI contract expires today.",
+    "why": "Geopolitical risk premium and a heavy physical market are cancelling out ahead of the OPEC+ ministerial meeting on 29 November.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-persist-set-for-third-week-in-red-5040503"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-report-says-trump-considering-more-iran-strikes-5037588"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street drops 2% and Asia heads for its worst week since 2020 as the Anthropic debut fails to lift AI",
+    "markets": [
+     "equities",
+     "macro"
+    ],
+    "lead": "The S&P 500 fell about 2% to a seven-month low on Thursday, the Nasdaq 2.3% and the Dow 2.2%, with the VIX at 28.4; on Friday Taiwan fell 6.6%, the Kospi 5.2% and the Nikkei 4.8%.",
+    "body": "All eleven S&P 500 sectors fell. Anthropic closed its first session at $97.17, 17% above its $83 IPO price, then slipped 6.3% after hours. Nvidia lost 3.3% and AMD 7.7%; in Asia SoftBank fell 15% and the Hang Seng entered a bear market. MSCI Asia ex-Japan is set for about -8.6% on the week, its worst since early 2020.",
+    "why": "Risk aversion drives margin calls and a stronger dollar, which spill into gold, copper and the wider commodity complex.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/economy-news/trading-day-worlds-biggest-ipo-pfft-5040191"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-to-7mth-low-with-skorea-taiwan-worst-hit-by-ai-rout-5040572"
+     }
+    ]
+   },
+   {
+    "title": "Gold hits a 14-month low and copper a seven-month low",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold fell 1.9% to $3,554 after touching $3,513.54, its lowest since September 2025, and is heading for about -9% on the week; LME copper dropped 2.4% to $12,190.68 a tonne.",
+    "body": "A dollar near a 19-month high and a 97.3% probability of a 25bp Fed hike in December (CME FedWatch) weigh on bullion, while investors sell gold to meet margin calls as AI stocks slump. Platinum fell 2.2% to $1,320.60 and US copper 1.3% to $5.52 a pound.",
+    "why": "Gold behaving as a source of cash in a selloff, rather than a haven, is a classic feature of margin-driven markets.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648"
+     }
+    ]
+   },
+   {
+    "title": "Dollar at a 19-month high while the US 10-year yield falls to 5.016%",
+    "markets": [
+     "macro"
+    ],
+    "lead": "The dollar index held near 103.9, up eight sessions in a row, while the US 10-year yield slipped to a one-week low of 5.016%, down about 10bp on the week.",
+    "body": "Safe-haven demand and hawkish Fed signals support the dollar: EUR/USD is at $1.0972 and USD/JPY at 159.50. Chicago Fed President Goolsbee warned that AI-driven demand could overheat the economy. In Japan, core inflation came in at 2.2% in October against 2.3% expected, with a Bank of Japan hike to 1.5% still expected on 18 December.",
+    "why": "A strong dollar makes dollar-priced commodities more expensive for most buyers and weighs on metals and grains.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/economy-news/dollar-near-19month-peak-as-ai-jitters-sap-risk-appetite-5040494"
+     },
+     {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357"
+     }
+    ]
+   },
+   {
+    "title": "TSMC tightens AI chip curbs on China after new US rules; chip stocks slide",
+    "markets": [
+     "equities",
+     "geopolitics"
+    ],
+    "lead": "According to Reuters, TSMC is tightening restrictions on Chinese chip designers after new US rules closed a manufacturing loophole; its shares fell about 5% to a seven-month low.",
+    "body": "Advantest dropped 10.5% and Samsung and SK Hynix lost 6 to 7%. It is the second export-control blow to the sector this week, after a short seller accused AMD of supplying a blacklisted Chinese server maker.",
+    "why": "Export controls now shape demand for the chips that drive data-centre power and copper consumption.",
+    "sources": [
+     {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-tumbling-10-today-93CH-5040687"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-19",
   "date": "2026-11-19",
   "note": "Veille 2026-11-19, brief du matin",
