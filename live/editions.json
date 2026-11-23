@@ -1,5 +1,122 @@
 [
  {
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "note": "Veille 2026-11-23, brief du matin",
+  "stories": [
+   {
+    "title": "Oil holds near $92.7 as the Houthis claim a strike on Saudi Arabia's Rabigh refinery",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent rose 0.1% to $92.67 and WTI 0.2% to $83.57 in Asian trade on Monday, after losing 4% and 5% last week.",
+    "body": "The Houthis said on Sunday they hit the Rabigh refinery on the Red Sea coast, run by Aramco and Sumitomo Chemical; Saudi authorities confirmed no attack and the coalition said it intercepted a ballistic missile. UKMTO reported several incidents on shipping in the Gulf and near Hormuz, and Bahrain said an Iranian attack hit an industrial site on Saturday. Against this, the IEA expects a fourth-quarter surplus of about 2 million barrels a day, and COP31 in Antalya ended on Sunday without a deal on fossil fuels.",
+    "why": "Six days before the OPEC+ meeting of 29 November, the market is pricing confirmed losses of supply, not claims: the risk premium stays small while the surplus case dominates.",
+    "sources": [
+     {
+      "name": "Reuters via Arab News",
+      "url": "https://www.arabnews.com/energy/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-3013656"
+     },
+     {
+      "name": "The New Arab",
+      "url": "https://www.newarab.com/news/yemens-houthis-attack-saudi-arabias-rabigh-oil-refinery"
+     },
+     {
+      "name": "Investing.com via Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-falls-robust-gulf-exports-014734794.html"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street enters correction as Nvidia falls on a reported SEC accounting probe",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "On Friday the S&P 500 fell 3.7% to 6,910.39 and the Nasdaq 5.3% to 22,617.73; Nvidia lost about 13% to 14%.",
+    "body": "Reuters reported that SEC enforcement staff are examining Nvidia's accounting; the shares were already down more than 6% before the report. Over the week the S&P 500 lost 8.6% and the Nasdaq 10%, its worst week since March 2020, on doubts about returns from AI spending. On Monday US futures rose 2% to 3% while Taiwan tightened short-selling rules, Chinese exchanges eased margin financing and South Korea pledged to stabilise its market.",
+    "why": "The AI trade drove copper, power and chip demand forecasts this year; a correction led by its leaders feeds straight into metals and energy sentiment.",
+    "sources": [
+     {
+      "name": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+     },
+     {
+      "name": "Reuters via MyJoyOnline",
+      "url": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/"
+     },
+     {
+      "name": "Reuters via Global Banking and Finance Review",
+      "url": "https://www.globalbankingandfinance.com/us-futures-bounce-while-asia-markets-brace-ai-wipeout/"
+     }
+    ]
+   },
+   {
+    "title": "Treasuries rally as markets trim 2027 Fed hikes, despite a hawkish Lisa Cook",
+    "markets": [
+     "macro"
+    ],
+    "lead": "The US 10-year yield ended the week at 4.94%, from 5.05% on Thursday, and markets removed about 25 basis points of hikes priced for 2027.",
+    "body": "Fed Governor Lisa Cook said on Friday that rates are not high enough and that waiting risks falling behind the curve. On Sunday Treasury Secretary Scott Bessent said the Fed could make a mistake by over-tightening. A quarter-point hike on 9 December remains almost fully priced, ahead of October PCE data on 25 November.",
+    "why": "Lower long-term yields and a softer path for Fed hikes ease the pressure on gold and on dollar-priced commodities.",
+    "sources": [
+     {
+      "name": "Danske Bank via FXStreet",
+      "url": "https://www.fxstreet.com/analysis/us-futures-rebound-after-ai-rout-202611230651"
+     },
+     {
+      "name": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/feds-cook-says-rate-hikes-needed-lower-high-inflation"
+     },
+     {
+      "name": "investingLive",
+      "url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/"
+     }
+    ]
+   },
+   {
+    "title": "European gas jumps 8.6% on cold forecasts and record-low storage",
+    "markets": [
+     "energy",
+     "lng"
+    ],
+    "lead": "Dutch TTF rose 8.6% to EUR 96.075/MWh at the start of the week; EU storage was 69.17% full on Sunday.",
+    "body": "Storage of about 781 TWh is the lowest for the heating season in over a decade. The main driver remains the loss of Middle East LNG exports, with QatarEnergy under force majeure, and the EU ban on Russian gas imports from January adds to the squeeze. TTF topped EUR 100 in late October, a four-year high, against about EUR 30 a year ago.",
+    "why": "With storage this low, any cold spell turns into a bidding war for spot LNG between Europe and Asia.",
+    "sources": [
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html"
+     }
+    ]
+   },
+   {
+    "title": "Gold rebounds above $3,600 and copper recovers after dipping below $12,000",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold rose as much as 2.3% to about $3,604 after a 9% weekly fall; LME copper touched $11,958.93, its lowest since March, then traded at $12,240.50 (+1%).",
+    "body": "Gold had touched about $3,503, a 14-month low; lower yields and cooling Fed hike bets reduce the cost of holding it. Copper lost about 9% last week, its steepest weekly drop in more than 19 months, amid doubts about AI spending, a strong dollar and Fed expectations. Iron ore slipped 0.7% in Dalian to 651.5 yuan on weak Chinese steel demand.",
+    "why": "Gold sold to meet margin calls bounced as soon as yields fell, while copper's demand case still rests on AI spending.",
+    "sources": [
+     {
+      "name": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/commodities/metal/262317208-spot-gold-rebounds-reclaim-3600-fed-rate-hike-expectations-cool-tradingkey"
+     },
+     {
+      "name": "Investing.com via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/lme-copper-briefly-falls-below-041024663.html"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-20",
   "date": "2026-11-20",
   "note": "Veille 2026-11-20, brief du matin",

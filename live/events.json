@@ -1,5 +1,57 @@
 [
  {
+  "id": "2026-11-23-crude-rabigh-houthi",
+  "date": "2026-11-23",
+  "commodity": "crude",
+  "place": "682",
+  "title": "Houthis claim a strike on Saudi Arabia's Rabigh refinery; Riyadh has not confirmed it and oil barely moves",
+  "move": "Brent $92.67 (+0.1%), WTI $83.57 (+0.2%)",
+  "source": "Reuters via Arab News",
+  "url": "https://www.arabnews.com/energy/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-3013656",
+  "note": "Veille 2026-11-23",
+  "edition": "2026-11-23",
+  "story": 0
+ },
+ {
+  "id": "2026-11-23-gas-ttf-cold-snap",
+  "date": "2026-11-23",
+  "commodity": "gas",
+  "place": "528",
+  "title": "Dutch TTF gas jumps on cold forecasts with EU storage at its lowest in over a decade",
+  "move": "TTF EUR 96.075/MWh (+8.6%)",
+  "source": "Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html",
+  "note": "Veille 2026-11-23",
+  "edition": "2026-11-23",
+  "story": 3
+ },
+ {
+  "id": "2026-11-23-gold-rebound-3600",
+  "date": "2026-11-23",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold rebounds above $3,600 after its steepest weekly fall in eight months",
+  "move": "Spot gold about $3,604 (+2.3% intraday)",
+  "source": "TradingKey",
+  "url": "https://www.tradingkey.com/analysis/commodities/metal/262317208-spot-gold-rebounds-reclaim-3600-fed-rate-hike-expectations-cool-tradingkey",
+  "note": "Veille 2026-11-23",
+  "edition": "2026-11-23",
+  "story": 4
+ },
+ {
+  "id": "2026-11-23-copper-below-12000",
+  "date": "2026-11-23",
+  "commodity": "copper",
+  "place": "world",
+  "title": "LME copper dips below $12,000 a ton for the first time since March, then recovers",
+  "move": "LME copper $12,240.50 (+1%) after a $11,958.93 low",
+  "source": "Investing.com via Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/commodities/articles/lme-copper-briefly-falls-below-041024663.html",
+  "note": "Veille 2026-11-23",
+  "edition": "2026-11-23",
+  "story": 4
+ },
+ {
   "id": "2026-11-20-crude-hormuz-mines-houthi",
   "date": "2026-11-20",
   "commodity": "crude",
@@ -50,6 +102,19 @@
   "note": "Veille 2026-11-20",
   "edition": "2026-11-20",
   "story": 4
+ },
+ {
+  "id": "2026-11-20-semis-nvidia-sec-probe",
+  "date": "2026-11-20",
+  "commodity": "semis",
+  "place": "840",
+  "title": "Nvidia slumps as the SEC reportedly examines its accounting; S&P 500 enters correction",
+  "move": "Nvidia about -13%, S&P 500 -3.7%, Nasdaq -5.3%",
+  "source": "Reuters via MyJoyOnline",
+  "url": "https://www.myjoyonline.com/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/",
+  "note": "Veille 2026-11-23",
+  "edition": "2026-11-23",
+  "story": 1
  },
  {
   "id": "2026-11-19-crude-trump-iran-strikes",
