@@ -1,5 +1,31 @@
 [
  {
+  "id": "2026-11-24-crude-three-month-low",
+  "date": "2026-11-24",
+  "commodity": "crude",
+  "place": "world",
+  "title": "Oil holds near three-month low as returning supply outweighs Hormuz mine claims",
+  "move": "Brent $89.10 (-0.3%)",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 2
+ },
+ {
+  "id": "2026-11-24-copper-asia-slip",
+  "date": "2026-11-24",
+  "commodity": "copper",
+  "place": "world",
+  "title": "Comex copper slips in Asian trading",
+  "move": "HG $5.5268/lb (-1.9%)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/commodities/copper",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 7
+ },
+ {
   "id": "2026-11-23-crude-rabigh-houthi",
   "date": "2026-11-23",
   "commodity": "crude",
@@ -50,6 +76,71 @@
   "note": "Veille 2026-11-23",
   "edition": "2026-11-23",
   "story": 4
+ },
+ {
+  "id": "2026-11-24-semis-nvidia-huang-return",
+  "date": "2026-11-23",
+  "commodity": "semis",
+  "place": "840",
+  "title": "Nvidia surges 31% after board reinstates Jensen Huang, chip stocks rally worldwide",
+  "move": "Nvidia +31%, Nasdaq +6.51%",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 0
+ },
+ {
+  "id": "2026-11-24-gold-silver-rebound",
+  "date": "2026-11-23",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold and silver rebound sharply after last week's rout",
+  "move": "Gold $3,635 (+2.75%), silver +4.6%",
+  "source": "Kitco",
+  "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 3
+ },
+ {
+  "id": "2026-11-24-lng-japan-power-high",
+  "date": "2026-11-23",
+  "commodity": "lng",
+  "place": "392",
+  "title": "Japan power prices hit 2022 high as cold lifts LNG demand; Korea seeks priority Qatari cargoes",
+  "move": "JEPX 37.50 yen/kWh (+6%), Asia LNG ~$30/MMBtu",
+  "source": "Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-to-2022-High-as-Cold-Weather-Arrives.html",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 4
+ },
+ {
+  "id": "2026-11-24-crude-russia-baltic-delays",
+  "date": "2026-11-23",
+  "commodity": "crude",
+  "place": "643",
+  "title": "Storms and drone alerts delay Russian oil loadings in the Baltic and Black Sea",
+  "move": "More than 10 tankers delayed",
+  "source": "Reuters via Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Storms-and-Drones-Disrupt-Russias-Oil-Exports.html",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 5
+ },
+ {
+  "id": "2026-11-24-crude-conoco-norway-exit",
+  "date": "2026-11-23",
+  "commodity": "crude",
+  "place": "578",
+  "title": "ConocoPhillips agrees to sell its Norway business to Var Energi",
+  "move": "$4.43bn enterprise value",
+  "source": "Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-443-Billion-Deal-with-Vaar-Energi.html",
+  "note": "Veille 2026-11-24",
+  "edition": "2026-11-24",
+  "story": 6
  },
  {
   "id": "2026-11-20-crude-hormuz-mines-houthi",

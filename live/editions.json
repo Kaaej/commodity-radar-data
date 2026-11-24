@@ -1,5 +1,177 @@
 [
  {
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "note": "Veille 2026-11-24, brief du matin",
+  "stories": [
+   {
+    "title": "Nvidia jumps 31% as Huang returns, sparking the best day for US stocks since April 2025",
+    "markets": [
+     "equities",
+     "etfs"
+    ],
+    "lead": "Nvidia rose about 31% on Monday after its board reinstated Jensen Huang as CEO. The S&P 500 gained 4.73% to 7,237.17, the Nasdaq Composite 6.51% to 24,089.56 and the Dow 3.01% to 49,595.31; on Tuesday Taiwan's index closed up 8.99% and the Kospi 6.32%.",
+    "body": "CNBC reports the board reversed course with immediate effect, and President Trump said he had persuaded it. Micron rose 19%, CoreWeave 22% and AMD about 7%, while several brokers upgraded Nvidia. Reuters notes the stock added more than $950bn in market value, but governance questions remain, including a congressional hearing next week. TSMC and Foxconn closed at their 10% daily limit in Taipei.",
+    "why": "A single-stock governance event moved global indexes by several percent, showing how concentrated equity benchmarks have become around AI chipmakers, with knock-on effects on rate expectations and gold.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+     },
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/analysishuangs-stunning-nvidia-return-sparks-relief-for-battered-ai-trade-5046322"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+     }
+    ]
+   },
+   {
+    "title": "Fed's Williams signals more hikes; two-year yield and dollar climb",
+    "markets": [
+     "macro"
+    ],
+    "lead": "New York Fed President John Williams said inflation is still too high and further hikes are possible. The two-year Treasury yield rose more than 7bp to about 4.69%, odds of a 25bp hike on December 9 rose to about 98% from 88% on Friday, and EUR/USD touched 1.0881, a 19-month low.",
+    "body": "Williams expects inflation to end 2026 at 3.5% and did not rule out moves at consecutive meetings, citing energy, tariffs and the AI boom, Reuters reports. CNBC links the jump in short-dated yields to the equity rebound, while the 10-year yield held near 4.93%. FXStreet says the AI rally revived bets on a more aggressive Fed, with the trade-weighted dollar up about 1% on Monday according to Commerzbank. October PCE inflation is due on Wednesday.",
+    "why": "A flatter curve and a firm dollar raise the cost of holding gold and weigh on dollar-priced commodities ahead of the last Fed meeting of the year.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
+     },
+     {
+      "name": "FXStreet",
+      "url": "https://www.fxstreet.com/news/euro-languishes-at-19-month-lows-amid-reviving-hopes-of-aggressive-fed-hikes-202611240723"
+     }
+    ]
+   },
+   {
+    "title": "Oil holds near three-month low as supply outweighs Hormuz mine claims",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent settled down 3.5% at $89.37 on Monday and WTI 3.9% lower at $80.17. On Tuesday morning Brent was at $89.10 and WTI at $79.97, both down 0.3%.",
+    "body": "Reuters attributes the weakness to rising supply and surplus fears, including the restart of Libya's Sharara pipeline; Deutsche Bank estimates observed global inventories rose 52 million barrels in October, a 1.7 million bpd surplus. Kitco also points to recovering Middle East flows. Prices barely reacted to an Iranian Revolutionary Guards claim that three tankers hit mines near Hormuz, or to President Trump saying strikes on Iran could resume after the New Year. BofA keeps its 2027 Brent forecast at $80.",
+    "why": "The geopolitical premium keeps fading against physical oversupply five days before the OPEC+ meeting on November 29.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Near-Three-Month-Lows-Despite-Hormuz-Mine-Claims.html"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html"
+     }
+    ]
+   },
+   {
+    "title": "Gold and silver rebound after last week's rout",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold rose about 2.75% to $3,635 on Monday and silver about 4.6% to $43.02. Gold eased 0.3% to $3,625.88 early on Tuesday.",
+    "body": "Kitco attributes Monday's rebound to bargain hunting and better risk sentiment as equities recovered, after gold was sold last week to cover losses elsewhere. Investing.com says Tuesday's dip reflects profit-taking and expectations of further Fed hikes ahead of PCE data, while ANZ also cites lower energy prices easing inflation fears.",
+    "why": "Gold is trading with margin flows and real-rate expectations rather than as a pure haven, which matters for positioning before the December Fed decision.",
+    "sources": [
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-extends-rebound-as-nvidia-ceo-news-lifts-equities-dipbuying-lifts-bullion-5046835"
+     }
+    ]
+   },
+   {
+    "title": "Cold snap pushes Japan power to 2022 high as Asia scrambles for LNG",
+    "markets": [
+     "lng",
+     "energy"
+    ],
+    "lead": "Japan's day-ahead power price reached 37.50 yen per kWh on Monday, up 6% on the week and the highest since August 2022. North Asian spot LNG is around $30 per MMBtu, about triple a year ago.",
+    "body": "Oilprice, citing Bloomberg data, links the jump to snow, low temperatures and weak solar output that increase reliance on gas. South Korea's trade minister asked Qatar for priority LNG supply once output and Hormuz transit normalise; QatarEnergy has extended its force majeure to at least the end of December.",
+    "why": "With Qatari LNG still offline, North Asian winter demand competes directly with Europe for cargoes, supporting both JKM and TTF.",
+    "sources": [
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-to-2022-High-as-Cold-Weather-Arrives.html"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Asks-Qatar-for-Priority-LNG-Once-Hormuz-Reopens.html"
+     }
+    ]
+   },
+   {
+    "title": "Storms and drones delay Russian crude loadings",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "More than 10 oil tankers have been delayed at Russia's Baltic ports by storms, according to traders cited by Reuters.",
+    "body": "Oilprice, relaying Reuters, says Ukrainian drone attacks and alerts have played a larger role this year than seasonal weather; Ust-Luga was hit about two weeks ago and Novorossiysk also faces delays. Traders say the disruption could lift Urals freight rates to Asia as Baltic weather eases.",
+    "why": "Loading delays tighten prompt Russian supply to Asia even as the wider crude market looks oversupplied.",
+    "sources": [
+     {
+      "name": "Reuters via Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Storms-and-Drones-Disrupt-Russias-Oil-Exports.html"
+     }
+    ]
+   },
+   {
+    "title": "ConocoPhillips exits Norway in $4.43bn deal with Var Energi",
+    "markets": [
+     "energy",
+     "equities"
+    ],
+    "lead": "ConocoPhillips agreed to sell its Norwegian business, 13 producing fields and related infrastructure including Ekofisk, to Var Energi for an enterprise value of $4.43bn.",
+    "body": "Var Energi expects to pay about $2.5bn at closing after adjustments, with completion expected around the end of the first quarter of 2027, Oilprice reports. The deal supports its target of more than 500,000 boe/d in the 2030s.",
+    "why": "US majors keep recycling mature North Sea assets to regional players, concentrating Norwegian supply in fewer hands.",
+    "sources": [
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-443-Billion-Deal-with-Vaar-Energi.html"
+     }
+    ]
+   },
+   {
+    "title": "Comex copper slips in Asian trade",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Comex copper fell 1.9% to $5.5268 per pound in Asian trading on Tuesday.",
+    "body": "The move follows Monday's dip below $12,000 a tonne on the LME, after copper's heavy losses last week.",
+    "why": "Copper remains the metal most exposed to swings in sentiment on AI and data-centre spending.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/commodities/copper"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/analysis/first-light-news-stock-futures-rebound-following-brutal-week-200692108"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-23",
   "date": "2026-11-23",
   "note": "Veille 2026-11-23, brief du matin",

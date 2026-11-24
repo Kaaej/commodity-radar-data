@@ -262,7 +262,8 @@
   "region": "US",
   "time": "14:30",
   "type": "data",
-  "url": "https://www.bea.gov/news/schedule"
+  "url": "https://www.bea.gov/news/schedule",
+  "expected": "GDP 3.4% (2nd est.); PCE +0.3% m/m"
  },
  {
   "id": "2026-11-18-ea-hicp",
