@@ -244,7 +244,9 @@
   "region": "US",
   "time": "16:30",
   "type": "energy",
-  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+  "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
+  "expected": "Crude +1.5M bbl (Reuters poll)",
+  "previous": "Crude +3.4M bbl"
  },
  {
   "id": "2026-11-25-fed-beige",

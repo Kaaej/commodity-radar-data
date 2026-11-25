@@ -1,5 +1,170 @@
 [
  {
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "note": "Veille 2026-11-25, brief du matin",
+  "stories": [
+   {
+    "title": "Congo suspends cobalt exports, Chinese cobalt futures jump to a three-month high",
+    "markets": [
+     "metals",
+     "geopolitics"
+    ],
+    "lead": "The Democratic Republic of Congo will halt all cobalt exports from November 30 until further notice. The December cobalt contract on the Wuxi exchange rose 10.97% to its daily limit of 316 yuan ($47.42) per kg, the highest since August 18.",
+    "body": "The strategic minerals regulator ARECOMS said the suspension covers all cobalt produced in the country, from industrial mines to artisanal sites, and stays until it is formally lifted. The stated aim is to tackle oversupply, weak prices and rising inventories. Several contracts hit their upper limits in morning trade on Tuesday, and Chinese cobalt producers such as Ganzhou Tengyuan (+12.5%) and Nanjing Hanrui (+11%) rallied.",
+    "why": "Congo supplies most of the world's mined cobalt, so a full export halt shifts pricing power to holders of refined stocks in China and tightens the battery supply chain.",
+    "sources": [
+     {
+      "name": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-24/china-cobalt-prices-surge-three-month-high-congo-bans-exports"
+     }
+    ]
+   },
+   {
+    "title": "AI sell-off resumes: Nasdaq falls 1.5%, Korean and Taiwanese chip stocks slump",
+    "markets": [
+     "equities"
+    ],
+    "lead": "The Nasdaq Composite fell 1.48% to 23,733.54 on Tuesday and the S&P 500 0.50% to 7,201.09, while the Dow rose 0.85% to 50,018.70. On Wednesday the Kospi lost 6.16% and Taiwan's index 4.94%.",
+    "body": "CNBC tied Tuesday's decline to tech stocks giving back Monday's rally: Nvidia closed down nearly 6% after a 31% jump, Micron lost 11% and Anthropic fell below its $83 IPO price. In Asia, SoftBank dropped 15%, Advantest 13% and TSMC 7%, as investors questioned the durability and returns of AI spending. Investing.com also cites fresh US tariff threats. Nasdaq 100 futures were down 1.4% early Wednesday.",
+    "why": "Swings of this size in a handful of AI names move index weights, chip-equipment demand and the power and metals stories built on data-centre growth.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+     }
+    ]
+   },
+   {
+    "title": "Gold and silver extend losses as Fed hike bets build",
+    "markets": [
+     "metals",
+     "macro"
+    ],
+    "lead": "Spot gold fell 2.25% to about $3,552.50 on Tuesday and silver 5.22% to $40.79. Early Wednesday gold was down another 1% at $3,522.68, near its lowest in more than a year.",
+    "body": "Kitco linked Tuesday's drop to a strong US consumer confidence reading, the rate-hike outlook, renewed tariff worries, the tech sell-off and portfolio liquidation, with gold failing to benefit from slightly lower yields. On Wednesday Investing.com cited Fed hike bets and a firm dollar ahead of the October PCE data. Separately, BCA Research closed its four-year bullish gold trade, pointing to the strong dollar and rising real yields.",
+    "why": "Gold is trading on rates and liquidation rather than geopolitics, which makes today's PCE print the next test for bullion.",
+    "sources": [
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-holds-near-15mth-lows-on-fed-hike-bets-pce-inflation-awaited-5049591"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-24/bca-research-ends-four-year-bullish-gold-trade-us-dollar-fed-take-their"
+     }
+    ]
+   },
+   {
+    "title": "US prepares new tariffs on 16 trading partners after excess-capacity probe",
+    "markets": [
+     "macro",
+     "metals",
+     "geopolitics"
+    ],
+    "lead": "The Section 301 probe into excess industrial capacity covers China, the EU, Japan, South Korea, India, Mexico and ten other partners, and is expected to lead to duties on top of existing tariffs.",
+    "body": "Reuters sources say the new duties would partly replace tariffs struck down by the Supreme Court in February, while respecting existing caps of 15% for the EU, Japan and South Korea and 20% for China if the trade truce expiring January 10 is extended. The probe targets sectors such as steel, aluminium, electric vehicles and solar. Mexico and Norway are unlikely to face immediate levies.",
+    "why": "New duties on steel and aluminium supply chains would reshape metal trade flows and premiums just as base metals are under pressure.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724"
+     }
+    ]
+   },
+   {
+    "title": "Brent rebounds above $91 on Hormuz attacks, then slips on glut fears",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent settled up 2.27% at $91.40 on Tuesday and WTI 2.35% higher at $82.05, after Brent touched $88.10, its lowest since August 27. Overnight Brent fell 1.4% to $90.12 and WTI 1.6% to $80.73.",
+    "body": "Reuters attributed Tuesday's gain to new attacks in and around the Strait of Hormuz, including a targeted container ship. The overnight drop came from signs of rising supply and weaker refined product markets, and from surplus expectations. The API reported a 126,000-barrel crude build against 1.5 million expected. Sinopec has bought about 20 million barrels of West African crude this month as freight from the Gulf of Oman to China fell to $8 a barrel from $21.",
+    "why": "Chinese restocking and Iraq's push for a higher capacity estimate frame the OPEC+ meeting on November 29.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Goes-on-Oil-Buying-Spree-as-Crude-Prices-Slide.html"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Inches-Up-as-Gasoline-Holds-Steady.html"
+     }
+    ]
+   },
+   {
+    "title": "US consumer confidence jumps to 103.3, Fed hike odds stay near 96%",
+    "markets": [
+     "macro"
+    ],
+    "lead": "The Conference Board index rose 11.4 points to 103.3 in November, against about 92.5 expected and its highest since January 2025. CME FedWatch prices a 96% chance of a 25bp hike on December 9 and 64% for another in January.",
+    "body": "Kitco said the stronger reading added to rate-hike expectations and weighed on gold. The 10-year Treasury yield ended near 4.90% and the 2-year near 4.67% ahead of the October PCE price index, due at 8:30 am New York time on Wednesday with headline inflation seen near 3.8% year on year. New York Fed President John Williams said persistent inflation points to tighter policy.",
+    "why": "With a December hike priced in, the debate has moved to January, and today's PCE print is the last major inflation reading before the Fed meets.",
+    "sources": [
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco"
+     },
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469"
+     }
+    ]
+   },
+   {
+    "title": "Goldman sees data centres driving US gas demand through 2028",
+    "markets": [
+     "energy",
+     "lng"
+    ],
+    "lead": "Goldman Sachs expects data centres to lead US natural gas demand growth over the next two years, with about 52 GW of new data-centre capacity possibly added in 2028 alone.",
+    "body": "Goldman says US data-centre power capacity and demand are up nearly 30% this year and account for more than a third of US power demand growth. Gas-fired capacity tied to data centres nearly doubled to 189 GW in the first half of 2026. US gas output is heading for a second record year, supported by rising LNG exports while Qatari supply is disrupted.",
+    "why": "Power demand from AI is becoming a structural source of gas demand, competing with LNG exports for US supply.",
+    "sources": [
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html"
+     }
+    ]
+   },
+   {
+    "title": "Soybeans firm on meal demand, wheat eases on better crop ratings",
+    "markets": [
+     "agriculture"
+    ],
+    "lead": "CBOT soybeans rose 10.25 cents to $12.39 a bushel on Tuesday morning, wheat fell 4.25 cents to $5.9125 and corn was unchanged at $4.50.",
+    "body": "Strong demand for soymeal offset pressure from fast planting in Brazil. Wheat slipped as US winter wheat conditions improved for a third straight week. Corn was steady in thin pre-holiday trade, with a dollar near a 20-month high weighing on US grain competitiveness. The CBOT is closed on November 26 for Thanksgiving.",
+    "why": "A strong dollar and fast South American planting cap US grain prices into year-end.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/soybean-futures-rise-on-meal-demand-wheat-slips-on-crop-data-93CH-5048986"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-24",
   "date": "2026-11-24",
   "note": "Veille 2026-11-24, brief du matin",

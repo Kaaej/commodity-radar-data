@@ -1,5 +1,18 @@
 [
  {
+  "id": "2026-11-25-gas-goldman-datacenters",
+  "date": "2026-11-25",
+  "commodity": "gas",
+  "place": "840",
+  "title": "Goldman sees data centres driving US gas demand through 2028",
+  "move": "About 52 GW of data-centre capacity added in 2028",
+  "source": "Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
+  "story": 6
+ },
+ {
   "id": "2026-11-24-crude-three-month-low",
   "date": "2026-11-24",
   "commodity": "crude",
@@ -23,6 +36,71 @@
   "url": "https://www.investing.com/commodities/copper",
   "note": "Veille 2026-11-24",
   "edition": "2026-11-24",
+  "story": 7
+ },
+ {
+  "id": "2026-11-25-cobalt-congo-export-ban",
+  "date": "2026-11-24",
+  "commodity": "cobalt",
+  "place": "180",
+  "title": "Congo suspends all cobalt exports from November 30",
+  "move": "Wuxi cobalt Dec +10.97% to 316 yuan/kg",
+  "source": "Reuters via Kitco",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-24/china-cobalt-prices-surge-three-month-high-congo-bans-exports",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
+  "story": 0
+ },
+ {
+  "id": "2026-11-25-semis-ai-selloff-asia",
+  "date": "2026-11-24",
+  "commodity": "semis",
+  "place": "410",
+  "title": "AI chip stocks slide again after Nvidia gives back part of its rally",
+  "move": "Nvidia about -6%, Kospi -6.16%, Taiwan -4.94%",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
+  "story": 1
+ },
+ {
+  "id": "2026-11-25-gold-silver-slide-fed",
+  "date": "2026-11-24",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold and silver extend losses as rate-hike bets build",
+  "move": "Gold $3,552.50 (-2.25%), silver $40.79 (-5.22%)",
+  "source": "Kitco",
+  "url": "https://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
+  "story": 2
+ },
+ {
+  "id": "2026-11-25-crude-hormuz-settle-glut",
+  "date": "2026-11-24",
+  "commodity": "crude",
+  "place": "cp:hormuz",
+  "title": "Brent rebounds on new Hormuz attacks, then slips overnight on glut fears",
+  "move": "Brent $91.40 (+2.27%), then $90.12 (-1.4%)",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
+  "story": 4
+ },
+ {
+  "id": "2026-11-25-soy-meal-demand",
+  "date": "2026-11-24",
+  "commodity": "soy",
+  "place": "840",
+  "title": "Soybeans rise on meal demand while wheat slips on better crop ratings",
+  "move": "Soybeans $12.39/bu (+10.25 cents), wheat $5.9125 (-4.25 cents)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/soybean-futures-rise-on-meal-demand-wheat-slips-on-crop-data-93CH-5048986",
+  "note": "Veille 2026-11-25",
+  "edition": "2026-11-25",
   "story": 7
  },
  {
