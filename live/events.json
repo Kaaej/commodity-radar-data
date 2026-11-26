@@ -1,5 +1,31 @@
 [
  {
+  "id": "2026-11-26-crude-hormuz-mines-ras-tanura",
+  "date": "2026-11-26",
+  "commodity": "crude",
+  "place": "cp:hormuz",
+  "title": "Tankers hit mines in Hormuz and Houthis claim a strike on Ras Tanura; Brent back above $95",
+  "move": "Brent $95.13 (+0.6%) in Asia after +3.5% on Wednesday",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-steadies-as-hormuz-attacks-threaten-supply-recovery-inventory-build-weighs-5051937",
+  "note": "Veille 2026-11-26",
+  "edition": "2026-11-26",
+  "story": 0
+ },
+ {
+  "id": "2026-11-26-semis-nvidia-sea-shipments",
+  "date": "2026-11-26",
+  "commodity": "semis",
+  "place": "840",
+  "title": "Nvidia stops server shipments to Malaysia, Singapore, Thailand and Indonesia after new US licence rules",
+  "move": "Shipments halted to 4 countries",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
+  "note": "Veille 2026-11-26",
+  "edition": "2026-11-26",
+  "story": 5
+ },
+ {
   "id": "2026-11-25-gas-goldman-datacenters",
   "date": "2026-11-25",
   "commodity": "gas",
@@ -11,6 +37,19 @@
   "note": "Veille 2026-11-25",
   "edition": "2026-11-25",
   "story": 6
+ },
+ {
+  "id": "2026-11-26-gold-reverses-thanksgiving",
+  "date": "2026-11-25",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold recovers from a one-year low as Treasury yields fall and tech selling eases",
+  "move": "Spot gold $3,576.30 (+0.60%), session low $3,426.40",
+  "source": "Kitco",
+  "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving",
+  "note": "Veille 2026-11-26",
+  "edition": "2026-11-26",
+  "story": 4
  },
  {
   "id": "2026-11-24-crude-three-month-low",

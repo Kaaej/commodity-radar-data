@@ -8,6 +8,14 @@
   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
  },
  {
+  "id": "410",
+  "rate": 3.25,
+  "date": "2026-11-26",
+  "bank": "BoK",
+  "url": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015",
+  "note": "Veille 2026-11-26"
+ },
+ {
   "id": "826",
   "bank": "Bank of England",
   "date": "2026-11-05",

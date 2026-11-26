@@ -1,5 +1,153 @@
 [
  {
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "note": "Veille 2026-11-26, brief du matin",
+  "stories": [
+   {
+    "title": "Mines in Hormuz and a claimed strike on Ras Tanura push Brent back above $95",
+    "markets": [
+     "energy",
+     "geopolitics"
+    ],
+    "lead": "Brent settled 3.5% higher and WTI 2% higher on Wednesday, then Brent reached $95.13 (+0.6%) and WTI $84.22 (+0.7%) in Asian trade on Thursday, close to 6% up over two sessions.",
+    "body": "Reuters reported two tankers striking mines in the Strait of Hormuz and a Houthi claim of a hit on Saudi Arabia's Ras Tanura refinery; UKMTO reported three more vessels struck, and ANZ put Hormuz throughput near 49% of normal. US crude stocks rose by 1.1 million barrels to 418.9 million, less than the 1.5 million expected, which capped the rally. Separately, production at Brazil's 220,000 b/d Bacalhau field is suspended for five to eight weeks after equipment damage on its FPSO, and Equinor cut its 2026 output growth guidance to about 3%.",
+    "why": "The Gulf export recovery that underpinned the surplus narrative is under direct attack three days before the OPEC+ meeting on 2027 output.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-5051949"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-steadies-as-hormuz-attacks-threaten-supply-recovery-inventory-build-weighs-5051937"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Company-News/Brazils-220000-Bpd-Bacalhau-Oil-Field-Hit-by-Major-Production-Outage.html"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Company-News/Equinor-Cuts-2026-Production-Growth-Forecast-After-Offshore-Outages.html"
+     }
+    ]
+   },
+   {
+    "title": "US growth revised up to 4.3% and core PCE at 3.3%: December Fed hike fully priced",
+    "markets": [
+     "macro",
+     "metals"
+    ],
+    "lead": "Third-quarter GDP was revised to 4.3% annualised from 3.4% (about 3.5% expected), and core PCE rose 3.3% year on year in October, the most since November 2023; headline PCE was 3.8%.",
+    "body": "Consumer spending grew 4.2% and equipment investment 21.8% in the quarter. Gold fell as much as 2% on the release because the data leave room for a Fed hike in December and early 2027, before recovering later in the session. Markets price a 25 bp hike at the 8-9 December meeting and another in January.",
+    "why": "Strong growth with sticky inflation makes a longer hiking cycle more likely, which weighs on non-yielding assets and supports the dollar.",
+    "sources": [
+     {
+      "name": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-25/us-economy-roars-ahead-third-quarter-inflation-remains-high-october"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation"
+     }
+    ]
+   },
+   {
+    "title": "New US tariffs hit Brazil's aircraft and out-of-quota sugar; US sugar futures jump",
+    "markets": [
+     "agriculture",
+     "macro"
+    ],
+    "lead": "The USTR proposed a 10% duty on Brazilian aircraft and a $440 per tonne tariff on out-of-quota raw sugar from all origins; the ICE US sugar contract for March rose 14.65% to 45 cents per lb, and the broader benchmark 3.9% to 18.34 cents.",
+    "body": "The Brazil measures come under a Section 301 case, alongside proposed excess-capacity tariffs on 14 trading partners including China and the EU. StoneX estimates the total out-of-quota sugar tariff would reach the equivalent of 193%, and says the move hurts US buyers more than Brazil, whose sugar sales to the US were just over 146,000 tonnes through October. A USTR hearing is set for 14 January before any duty applies.",
+    "why": "Trade policy is again splitting domestic and world prices, a classic arbitrage and basis story for agricultural markets.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/us-proposes-higher-tariffs-on-brazil-imports-including-10-duty-on-aircraft-5050713"
+     },
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/new-trump-tariffs-would-likely-increase-sugar-prices-in-the-us-5051752"
+     }
+    ]
+   },
+   {
+    "title": "Wall Street claws back an intraday rout; Asia and European futures rally on Thursday",
+    "markets": [
+     "equities",
+     "macro"
+    ],
+    "lead": "The S&P 500 ended Wednesday 0.25% lower at 7,182.78 after falling as much as 3.2%, the Nasdaq 0.62% lower at 23,585.80 and the Dow 0.33% higher at 50,182.95; on Thursday the Kospi rose about 1.9%, Taiwan 2.79% and Euro Stoxx 50 futures 2.3%.",
+    "body": "Kitco linked the US rebound to falling Treasury yields, with the 10-year down about 5.6 bp to 4.845%, and to easing AI-related selling. Reuters said Asian investors judged the new US tariff proposals less damaging than feared, as they do not stack on July tariffs and are unlikely before February or March, and also cited a tech rebound. US markets are closed on Thursday for Thanksgiving.",
+    "why": "A reversal from a 3% intraday drop with lower yields shows bond markets now cushion equity sell-offs, even with the Fed set to hike.",
+    "sources": [
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving"
+     },
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+     }
+    ]
+   },
+   {
+    "title": "Gold rebounds from a one-year low to about $3,576",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold was near $3,576.30 (+0.60%) late on Wednesday after a session range of $3,426.40 to $3,590; silver gained 0.78% to $41.12.",
+    "body": "Kitco attributed the recovery to falling Treasury yields and the moderation of the tech sell-off, which offset the strong GDP and PCE figures that had pushed gold to its session low. In Asia on Thursday, spot gold was little changed near $3,583 with the dollar index at 103.77, according to Investing.com.",
+    "why": "Gold is trading as a rates asset rather than a war hedge: real-yield expectations, not geopolitics, are setting the price.",
+    "sources": [
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-eases-as-us-inflation-data-reinforces-fed-ratehike-bets-5051964"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia halts server shipments to four Southeast Asian countries",
+    "markets": [
+     "equities"
+    ],
+    "lead": "Nvidia told manufacturing partners to stop shipping servers with its chips to Malaysia, Singapore, Thailand and Indonesia, according to a Financial Times report carried by Reuters.",
+    "body": "The halt follows new US rules, in force since last week, that require export licences for advanced chips sent to several Southeast Asian countries seen as transit routes for Chinese buyers. It was not clear whether the stop would be temporary.",
+    "why": "Southeast Asia has become a key hub for AI data centres, so licence rules there reshape chip and server flows beyond China.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
+     }
+    ]
+   },
+   {
+    "title": "Bank of Korea raises its policy rate to 3.25%",
+    "markets": [
+     "macro"
+    ],
+    "lead": "The Bank of Korea lifted its rate by 25 bp to 3.25%, its third hike this year and the highest level since October 2024; the won was flat near 1,343 per dollar.",
+    "body": "The central bank raised its 2026 and 2027 growth forecasts on AI-related chip demand and its inflation forecasts on energy and housing. In Japan, BOJ board member Naoki Tamura called for a faster pace of hikes, with the yen near 159 per dollar.",
+    "why": "Asian central banks are tightening alongside the Fed as the energy shock feeds inflation, a headwind for regional bonds.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-25",
   "date": "2026-11-25",
   "note": "Veille 2026-11-25, brief du matin",

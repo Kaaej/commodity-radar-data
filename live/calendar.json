@@ -246,7 +246,8 @@
   "type": "energy",
   "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
   "expected": "Crude +1.5M bbl (Reuters poll)",
-  "previous": "Crude +3.4M bbl"
+  "previous": "Crude +3.4M bbl",
+  "actual": "Crude +1.1M bbl"
  },
  {
   "id": "2026-11-25-fed-beige",
@@ -265,7 +266,8 @@
   "time": "14:30",
   "type": "data",
   "url": "https://www.bea.gov/news/schedule",
-  "expected": "GDP 3.4% (2nd est.); PCE +0.3% m/m"
+  "expected": "GDP 3.4% (2nd est.); PCE +0.3% m/m",
+  "actual": "GDP 4.3%; PCE +0.3% m/m (core 3.3% y/y)"
  },
  {
   "id": "2026-11-18-ea-hicp",
