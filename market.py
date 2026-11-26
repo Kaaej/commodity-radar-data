@@ -8,6 +8,7 @@ series the site uses and writes live/market.json.
 Usage:
   python market.py            write live/market.json if the data changed (no git)
   python market.py --push     same, then commit and push to GitHub when the file changed
+  python market.py --dry-run  read the World Bank file and check it, write nothing (added 26 Nov 2026, for the data repair loop)
 Added 11 Nov 2026.
 """
 import io, json, re, subprocess, sys, urllib.request
@@ -47,6 +48,7 @@ def get(url):
 
 def main():
     push = "--push" in sys.argv
+    dry = "--dry-run" in sys.argv
     try:
         html = get(PAGE).decode("utf-8", "replace")
     except Exception as e:
@@ -78,6 +80,9 @@ def main():
         out["series"][key] = {"name": title.replace(" **", ""), "unit": units[j], "v": [None if v is None else round(v, 4) for v in vals]}
     new = json.dumps(out, ensure_ascii=False, separators=(",", ":"))
     old = OUT.read_text(encoding="utf-8") if OUT.exists() else ""
+    if dry:
+        print(f"OK dry run, nothing written ({'unchanged' if new == old else 'would change'}; last month {months[-1]}, World Bank update {updated})")
+        return
     if new == old:
         print(f"OK unchanged (last month {months[-1]}, World Bank update {updated})")
         return
