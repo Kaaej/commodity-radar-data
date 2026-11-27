@@ -1,5 +1,117 @@
 [
  {
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "note": "Veille 2026-11-27, brief du matin",
+  "stories": [
+   {
+    "title": "Strike on Saudi Arabia's Jazan refinery keeps Brent near $97",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Brent traded at $96.61 on Friday morning after gaining nearly $2 on Thursday to its highest settlement since 6 November. WTI rose 2.5% to $85.78, catching up after the US Thanksgiving holiday.",
+    "body": "Saudi authorities said a projectile hit Aramco's Jazan refinery on Thursday, killing one worker, while Houthi attacks targeted other Saudi energy sites and tankers kept being hit near Hormuz, according to Reuters. Gulf exports remain below their September and October highs and LNG exports are about half of pre-war levels, Oilprice notes. Brent is heading for a weekly gain of about 4.5%, its first this month, but is still down nearly 20% in November. Two sources expect OPEC+ to keep output targets unchanged for at least the first quarter of 2027 at Sunday's meeting.",
+    "why": "Attacks on production sites, not just shipping lanes, test the market's bet on a recovery of Gulf supply two days before OPEC+ sets its 2027 framework.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810"
+     },
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html"
+     }
+    ]
+   },
+   {
+    "title": "Gold and silver bounce from their lows",
+    "markets": [
+     "metals"
+    ],
+    "lead": "Spot gold rose 1.8% to $3,629.87 an ounce and silver 4.8% to $43.53 in Asian trading on Friday, with platinum up 3.0%.",
+    "body": "Investing.com attributes the move to bargain hunting after gold fell 9.4% last week and briefly dropped below $3,500 on 25 November. Rate futures still price a 96.2% chance of a 25 basis point Fed hike on 9 December, after October core PCE rose 3.3% year on year. Blue Line Futures says the rebound in silver needs follow-through, as holiday volumes are thin.",
+    "why": "Precious metals are trading against the most hawkish Fed pricing in years, so a bounce without lower real yields may prove short-lived.",
+    "sources": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/opinion/2026-11-26/did-we-get-bottom-gold-and-silver-prices"
+     }
+    ]
+   },
+   {
+    "title": "US pushed Iraq and Venezuela to consider leaving OPEC, sources say",
+    "markets": [
+     "geopolitics",
+     "energy"
+    ],
+    "lead": "Washington encouraged Venezuela and Iraq to consider quitting OPEC earlier this year and blocked Venezuela's membership dues, according to ten people cited by Reuters.",
+    "body": "Saudi Arabia's crown prince persuaded the administration not to press the issue with Venezuela, and Iraq's oil ministry convinced the prime minister to stay and seek a higher quota instead, the sources said. The US controls Venezuelan state funds since Maduro's removal in January, and Iraq's oil revenue passes through the Federal Reserve Bank of New York. OPEC has lost four members since 2019, including the UAE this year. The State Department said leaving OPEC had not been raised by high-level officials.",
+    "why": "It adds pressure on OPEC+ cohesion just before Sunday's meeting, where capacity claims from Iraq and Kazakhstan will shape 2027 quotas.",
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-say-2026-11-27/"
+     }
+    ]
+   },
+   {
+    "title": "Base metals rebound; zinc jumps on a Dutch smelter halt",
+    "markets": [
+     "metals"
+    ],
+    "lead": "LME copper rose 1.9% to $11,867 a tonne on Thursday, nickel 3.7% to $15,725, aluminium 2.1% to $2,809 and zinc 3.5% to $3,511.",
+    "body": "Copper bounced with AI-related equities after falling about 17% in four weeks, according to Reuters, with one analyst warning that the metal may have become too closely tied to the AI trade. Zinc rose on Nyrstar's plan to halt its 315,000 tonne-a-year Budel smelter in the Netherlands from 30 November. A strong dollar and a weaker economic outlook still weigh on the complex.",
+    "why": "Copper now moves with technology stocks as much as with physical supply, which makes it more sensitive to swings in risk appetite.",
+    "sources": [
+     {
+      "name": "Reuters via Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-26/copper-price-bounces-ai-equities-recover-zinc-jumps-most-january"
+     }
+    ]
+   },
+   {
+    "title": "Chinese stocks surge on a state pledge to support markets",
+    "markets": [
+     "equities",
+     "macro"
+    ],
+    "lead": "The CSI 300 rose 3.5% and the STAR 50 about 12% on Friday, heading for their best session in two years, while the Kospi gained 4.1% and the Nikkei 2.1%.",
+    "body": "A State Council meeting chaired by Premier Li Qiang called for a bigger role for state-backed investors, with Central Huijin acting as a stabilisation fund, according to Reuters. The yuan reversed early losses and Chinese shares rebounded from 16-month lows. A cut in margin requirements from 100% to 80% from 30 November also helped, Investing.com reports, while the US 10-year yield rose 7 basis points to 4.92%.",
+    "why": "Beijing is backstopping its equity market as new US tariffs loom, which supports risk appetite in Asia and demand expectations for industrial commodities.",
+    "sources": [
+     {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026"
+     },
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839"
+     }
+    ]
+   },
+   {
+    "title": "Dutch gas grid operator calls for a strategic gas reserve",
+    "markets": [
+     "energy"
+    ],
+    "lead": "Gasunie said the Netherlands is vulnerable to supply shocks and not prepared enough for a harsh winter, after the country's storage target was cut from 115 TWh to 93 TWh in September.",
+    "body": "Europe and the Netherlands entered winter with gas inventories at their lowest in more than a decade, Oilprice reports. Gasunie said there is no immediate risk of shortage, but pointed to an early cold spell, rising global LNG demand and geopolitics.",
+    "why": "Low European storage leaves TTF exposed to any cold snap or further disruption to Gulf LNG flows this winter.",
+    "sources": [
+     {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-26",
   "date": "2026-11-26",
   "note": "Veille 2026-11-26, brief du matin",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "2026-11-27-gold-rebound",
+  "date": "2026-11-27",
+  "commodity": "gold",
+  "place": "world",
+  "title": "Gold and silver rebound from their lows on bargain buying",
+  "move": "Gold $3,629.87 (+1.8%), silver $43.53 (+4.8%)",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+  "note": "Veille 2026-11-27",
+  "edition": "2026-11-27",
+  "story": 1
+ },
+ {
+  "id": "2026-11-27-crude-opec-exit-push",
+  "date": "2026-11-27",
+  "commodity": "crude",
+  "place": "368",
+  "title": "US pushed Iraq and Venezuela to consider leaving OPEC, sources say",
+  "move": "OPEC has lost four members since 2019",
+  "source": "Reuters",
+  "url": "https://www.reuters.com/business/energy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-say-2026-11-27/",
+  "note": "Veille 2026-11-27",
+  "edition": "2026-11-27",
+  "story": 2
+ },
+ {
   "id": "2026-11-26-crude-hormuz-mines-ras-tanura",
   "date": "2026-11-26",
   "commodity": "crude",
@@ -23,6 +49,45 @@
   "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
   "note": "Veille 2026-11-26",
   "edition": "2026-11-26",
+  "story": 5
+ },
+ {
+  "id": "2026-11-26-crude-jazan-strike",
+  "date": "2026-11-26",
+  "commodity": "crude",
+  "place": "682",
+  "title": "A projectile hits Aramco's Jazan refinery as tanker attacks continue near Hormuz",
+  "move": "Brent $96.61, WTI $85.78 (+2.5%)",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810",
+  "note": "Veille 2026-11-27",
+  "edition": "2026-11-27",
+  "story": 0
+ },
+ {
+  "id": "2026-11-26-copper-base-metals-bounce",
+  "date": "2026-11-26",
+  "commodity": "copper",
+  "place": "world",
+  "title": "Base metals bounce on the LME as AI stocks recover",
+  "move": "LME copper $11,867/t (+1.9%), nickel +3.7%",
+  "source": "Reuters via Kitco",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-26/copper-price-bounces-ai-equities-recover-zinc-jumps-most-january",
+  "note": "Veille 2026-11-27",
+  "edition": "2026-11-27",
+  "story": 3
+ },
+ {
+  "id": "2026-11-26-gas-dutch-strategic-reserve",
+  "date": "2026-11-26",
+  "commodity": "gas",
+  "place": "528",
+  "title": "Dutch gas grid operator Gasunie proposes a strategic gas reserve",
+  "move": "Storage target cut from 115 TWh to 93 TWh",
+  "source": "Oilprice",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html",
+  "note": "Veille 2026-11-27",
+  "edition": "2026-11-27",
   "story": 5
  },
  {
